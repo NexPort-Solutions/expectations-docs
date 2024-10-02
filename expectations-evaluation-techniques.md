@@ -1,15 +1,15 @@
 # Expectations Evaluation Techniques
 
-| <h3><strong>Evaluation Techniques</strong></h3> |
-| ----------------------------------------------- |
+## <h3><strong>Evaluation Techniques</strong></h3>
+-----------------------------------------------
 
 * Evaluation Techniques
 * Standardized Guidelines for Evaluation
 * Writing your own Evaluation Criteria
 * Evaluation Frequency
 
-| <h3>Evaluation Techniques</h3> |
-| ------------------------------ |
+## <h3>Evaluation Techniques</h3>
+------------------------------
 
 Evaluation of employee performance and behavior is seen as a "necessary evil." Employees generally do not like the process, and supervisors see it as something that has to be done once a year.
 
@@ -23,8 +23,8 @@ This program provides a number of categories generic to most jobs. These include
 
 How do you customize these evaluation criteria? First, you have to understand how the criteria work . . . then you can begin to design criteria from individual job descriptions.
 
-| Standardized Guidelines for Evaluation |
-| -------------------------------------- |
+## Standardized Guidelines for Evaluation
+--------------------------------------
 
 These guidelines are designed to give the trainer/supervisor specific guidelines by which to objectively evaluate behavior and performance. These guidelines ensure the trainer's/supervisor's evaluation tool is considered valid and reliable.
 
@@ -40,8 +40,8 @@ To ensure ratings are consistent from day to day and from supervisor to supervis
 
 Employees are to be provided with a copy of the Standardized Guidelines for Evaluation that pertains to their job in advance of the actual evaluation. Employees cannot be expected to meet and/or exceed defined standards without knowing what those standards are. New employees should be issued a copy of the guidelines during the first few days of employment, during the orientation phase. They should also be familiarized with the employee evaluation system and its use.
 
-| Writing your own Evaluation Criteria |
-| ------------------------------------ |
+## Writing your own Evaluation Criteria
+------------------------------------
 
 The software provides generic categories for evaluation, but you will have to create evaluation criteria to match items on the job description. This personalizes the evaluation and helps give the employee specific feedback on particular job tasks.
 
@@ -85,8 +85,8 @@ Do this for each of the items that you find on the job description. Massage them
 
 Print the criteria set and distribute it to the employee before beginning the evaluation process.
 
-| Evaluation Frequency |
-| -------------------- |
+## Evaluation Frequency
+--------------------
 
 Employees should be evaluated regularly. The software was designed for use in a periodic system, such as monthly, bimonthly, or quarterly.
 

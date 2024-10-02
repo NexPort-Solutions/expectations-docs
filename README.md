@@ -1,7 +1,7 @@
 # Expectations Getting Started
 
-| <h3><strong>Getting Started</strong></h3> |
-| ----------------------------------------- |
+## Getting Started
+---
 
 * Startup
 * Main Form
@@ -9,8 +9,8 @@
 * Logging Out
 * Database Connection
 
-| <h3><strong>Startup</strong></h3> |
-| --------------------------------- |
+## Startup
+---
 
 To start Expectations select the shortcut on the desktop or in the Start menu.  When the main form first appears the splash screen is displayed.  Clicking on the splash screen will make it go away.
 
@@ -18,11 +18,11 @@ To start Expectations select the shortcut on the desktop or in the Start menu.  
 
 As Expectations starts up it attempts to establish a database connection.  If successful, the Login form appears after the splash screen goes away.  If Expectations is unable to establish a database connection, use the File - Open Database menu item on the main form to manually establish a connection.  Once the connection is made to the database the Login form will appear.
 
-| NOTE: For instructions on manually making a database connection, see the section entitled Database Connection. |
-| -------------------------------------------------------------------------------------------------------------- |
+## NOTE: For instructions on manually making a database connection, see the section entitled Database Connection.
+---
 
-| <h3><strong>Main Form</strong></h3> |
-| ----------------------------------- |
+## Main Form
+---
 
 The main form is Expectation's parent form.  All the other forms are limited to operate within the bounds of the main form.  At the top of the form are the main menus.  Within the main menus are the menu items that access the other forms.  Menu items may or may not be enabled, depending on if a user has logged in and what their security level is.  Enabled menu items are indicated by black text, disabled menu items by gray text.  User information displays on the status bar at the bottom of the form.  To exit Expectations select the control box X or the File - Exit menu item.
 
@@ -81,8 +81,8 @@ Help Menu Items
   * Via Remote Internet-Enabled Computer
 * About Expectations (always enabled)
 
-| <h3><strong>Logging In</strong></h3> |
-| ------------------------------------ |
+## Logging In
+---
 
 In order to write, view or print evaluations a user first needs to log in.  This is accomplished from the Login form.  The Login form is accessed via the Login - Login menu item on the main form.
 
@@ -94,18 +94,18 @@ The Login form will automatically appear when Expectations first starts up, when
 
 When Expectations is unable to establish a database connection at startup the login form will not appear.  In this case use the File - Open Database menu item on the main form to manually establish a connection.  Once the connection is made to the database the Login form will appear.
 
-| NOTE: For instructions on manually making a database connection, see the section entitled Database Connection. |
-| -------------------------------------------------------------------------------------------------------------- |
+## NOTE: For instructions on manually making a database connection, see the section entitled Database Connection.
+---
 
-| <h3><strong>Logging Out</strong></h3> |
-| ------------------------------------- |
+## Logging Out
+---
 
 To log out of Expectations select the Login/Logout menu item located on the main form.  User information at the bottom of the main form is cleared and the menus are reconfigured to the pre-login state.
 
 ![](<.gitbook/assets/4 (3).jpeg>)
 
-| <h3><strong>Database Connection</strong></h3> |
-| --------------------------------------------- |
+## Database Connection
+---
 
 After installation, Expectations is configured to establish a connection to an Access database file in the application folder by default.  Use the File - Close Database and File - Open Database menu items on the main form to locate and connect to an alternate database.
 
@@ -125,8 +125,8 @@ Select Database
 
 Selecting the File - Open Database menu item brings up the Select Database window.  Expectations can work from either an Access or SQL Server database.  The option buttons on the Select Database window are used to select the database type.  Text boxes opposite the option buttons indicate the database to open.  Use the associated Change buttons to change the database.  A connection attempt is made when the OK button is selected.  The Select Database window closes and the Login window appears if the connection attempt is successful.
 
-| NOTE: Expectations will remember and subsequently connect to the last database that was opened. |
-| ----------------------------------------------------------------------------------------------- |
+## NOTE: Expectations will remember and subsequently connect to the last database that was opened.
+---
 
 ![](<.gitbook/assets/7 (2).png>)
 
@@ -176,7 +176,7 @@ At launch or when switching the choice in the Select Database dialog, you can ch
 8. Assign a department to the Admin user in the [Modify Trainer/Supervisor](https://docs.google.com/document/d/10fcvgcmvNWnKnY9D04qr5zSIS2eHLsIQNc2Yaq5GgV8/edit#bookmark=id.3ygebqi) window.
 9. [Upload](https://docs.google.com/document/d/10fcvgcmvNWnKnY9D04qr5zSIS2eHLsIQNc2Yaq5GgV8/edit#bookmark=id.3j2qqm3) the previously downloaded trainers/supervisors, trainees/employees, criteria sets, and evaluations.
 
-Note: Relocating evaluations to a SQL Server database is optional.  While they are not required for authoring new evaluations, they may be wanted for historical reference.
+> Note: Relocating evaluations to a SQL Server database is optional.  While they are not required for authoring new evaluations, they may be wanted for historical reference.
 
-| NOTE: At this time during the update process, Training & Development application records may only be migrated automatically (rather than manually) from an MS Access database to SQL Server.  For those older MS Access databases which do not meet the criteria specified in the [Conversion Options](https://docs.google.com/document/d/10fcvgcmvNWnKnY9D04qr5zSIS2eHLsIQNc2Yaq5GgV8/edit#bookmark=id.111kx3o) help topic for updating 'in-place', please consider converting your database to SQL Server automatically.  If migrating your older MS Access database to SQL Server is not feasible at this time and the "Keep MS Access" button is not enabled, please contact Smart Horizons for assistance in separating out the database into multiple MS Access databases (each of which may be updated separately by the software, as normal). |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+> NOTE: At this time during the update process, Training & Development application records may only be migrated automatically (rather than manually) from an MS Access database to SQL Server.  For those older MS Access databases which do not meet the criteria specified in the [Conversion Options](https://docs.google.com/document/d/10fcvgcmvNWnKnY9D04qr5zSIS2eHLsIQNc2Yaq5GgV8/edit#bookmark=id.111kx3o) help topic for updating 'in-place', please consider converting your database to SQL Server automatically.  If migrating your older MS Access database to SQL Server is not feasible at this time and the "Keep MS Access" button is not enabled, please contact Smart Horizons for assistance in separating out the database into multiple MS Access databases (each of which may be updated separately by the software, as normal).
+---

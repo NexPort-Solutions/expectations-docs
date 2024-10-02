@@ -13,7 +13,7 @@
 
 ***
 
-The View/Print Criteria Set form allows existing criteria sets to be reviewed and printed. To bring up the form, select the Trainer/Supervisor - View/Print Criteria Set menu item on the [main form](#id.3znysh7).
+The View/Print Criteria Set form allows existing criteria sets to be reviewed and printed. To bring up the form, select the Trainer/Supervisor - View/Print Criteria Set menu item on the [main form](broken_id.3znysh7).
 
 ![](<.gitbook/assets/0 (1).jpeg>)
 
@@ -45,15 +45,15 @@ The Trainer/Supervisor Form provides utilities for writing new evaluations, prin
 
 ***
 
-The Trainer/Supervisor form Write Evaluation tab is accessed via the Trainer/Supervisor - Write Evaluation menu item on the [main form](#id.3znysh7).
+The Trainer/Supervisor form Write Evaluation tab is accessed via the Trainer/Supervisor - Write Evaluation menu item on the [main form](broken_id.3znysh7).
 
 ![](<.gitbook/assets/2 (1).jpeg>)
 
-The Write Evaluation tab displays a list of trainees/employees for which the current user can write an evaluation. This may include all trainees/employees if the current user is assigned to ['Department ALL'](#id.37m2jsg). An asterisk (\*) denotes that one or more incomplete evaluations exist for the trainee. The evaluation criteria set is shown in the drop down selector below the Trainee/Employee list.
+The Write Evaluation tab displays a list of trainees/employees for which the current user can write an evaluation. This may include all trainees/employees if the current user is assigned to ['Department ALL'](broken_id.37m2jsg). An asterisk (\*) denotes that one or more incomplete evaluations exist for the trainee. The evaluation criteria set is shown in the drop down selector below the Trainee/Employee list.
 
 ![](<.gitbook/assets/3 (1).png>)
 
-To write an evaluation, first select a trainee/employee. This done, the default criteria set is automatically entered, any incomplete evaluations are displayed, and the Write Evaluation button is enabled. The criteria set can be changed at this time, if desired, by making another selection from the drop down list. Clicking on the Write Evaluation button without selecting an evaluation opens the [Evaluation Writer](#id.sqyw64) with a new evaluation. To edit an existing evaluation, first make a selection from the Incomplete Evaluations list. The list entries are sequentially numbered and are sorted by the evaluation end date. Once an evaluation is selected, the criteria set is automatically entered and cannot be changed.
+To write an evaluation, first select a trainee/employee. This done, the default criteria set is automatically entered, any incomplete evaluations are displayed, and the Write Evaluation button is enabled. The criteria set can be changed at this time, if desired, by making another selection from the drop down list. Clicking on the Write Evaluation button without selecting an evaluation opens the [Evaluation Writer](broken_id.sqyw64) with a new evaluation. To edit an existing evaluation, first make a selection from the Incomplete Evaluations list. The list entries are sequentially numbered and are sorted by the evaluation end date. Once an evaluation is selected, the criteria set is automatically entered and cannot be changed.
 
 Clicking the Close button will close this window.
 
@@ -63,11 +63,11 @@ Clicking the Close button will close this window.
 
 ***
 
-The Trainer/Supervisor form Print Worksheet tab is accessed via the Trainer/Supervisor - Print Worksheet menu item on the [main form](#id.3znysh7).
+The Trainer/Supervisor form Print Worksheet tab is accessed via the Trainer/Supervisor - Print Worksheet menu item on the [main form](broken_id.3znysh7).
 
 ![](<.gitbook/assets/4 (1).jpeg>)
 
-To print a worksheet, first make a selection from the list of trainees/employees available to the user. This list may include all trainees/employees if the current user is assigned to ['Department ALL'](#id.37m2jsg). Once selected, the default criteria set for the trainee/employee is entered into the Criteria Set box. This is the criteria set that will be used to create the worksheet. To change the criteria set, make another selection from the drop down list. The Blank Comment Lines counter varies the number of blank lines appearing for each comment. Selecting the Print Worksheet button loads the worksheet into the Report Preview window. Clicking the Close button closes the Trainer/Supervisor window.
+To print a worksheet, first make a selection from the list of trainees/employees available to the user. This list may include all trainees/employees if the current user is assigned to ['Department ALL'](broken_id.37m2jsg). Once selected, the default criteria set for the trainee/employee is entered into the Criteria Set box. This is the criteria set that will be used to create the worksheet. To change the criteria set, make another selection from the drop down list. The Blank Comment Lines counter varies the number of blank lines appearing for each comment. Selecting the Print Worksheet button loads the worksheet into the Report Preview window. Clicking the Close button closes the Trainer/Supervisor window.
 
 ![](.gitbook/assets/5.png)
 
@@ -81,17 +81,17 @@ Use the Report Preview window to check out the worksheet and make adjustments be
 
 ***
 
-The Trainer/Supervisor form Review Evaluation tab is accessed via the Trainer/Supervisor - Review Evaluation menu item on the [main form](#id.3znysh7).
+The Trainer/Supervisor form Review Evaluation tab is accessed via the Trainer/Supervisor - Review Evaluation menu item on the [main form](broken_id.3znysh7).
 
-![](#id.2dlolyb), the [Trainee/Employee Evaluation tab](#id.3cqmetx), and the Reviewer Comments tab. Operation of the first two tabs is the same as on the [Evaluation Viewer](#id.2dlolyb). They are used by the reviewer to look over the evaluation. After the evaluation has been checked, any comments the reviewer might have are entered on the Reviewer Comments tab. It includes the "Comments" (read-only) and "New" (editable) textboxes, as well as options for approving and disapproving the evaluation. Use the Spelling button to spell check the comments before submitting. Select the Submit button after the comments have been entered and the approval state has been set:
+![](broken_id.2dlolyb), the [Trainee/Employee Evaluation tab](broken_id.3cqmetx), and the Reviewer Comments tab. Operation of the first two tabs is the same as on the [Evaluation Viewer](broken_id.2dlolyb). They are used by the reviewer to look over the evaluation. After the evaluation has been checked, any comments the reviewer might have are entered on the Reviewer Comments tab. It includes the "Comments" (read-only) and "New" (editable) textboxes, as well as options for approving and disapproving the evaluation. Use the Spelling button to spell check the comments before submitting. Select the Submit button after the comments have been entered and the approval state has been set:
 
-![](#id.1rvwp1q) when it is sent back for correcting, the Evaluation Viewer once approved by all reviewers, and in the evaluation report preview and print-off when configured to do so from the [Reviewer Comments](#id.4bvk7pj) sub-tab.
+![](broken_id.1rvwp1q) when it is sent back for correcting, the Evaluation Viewer once approved by all reviewers, and in the evaluation report preview and print-off when configured to do so from the [Reviewer Comments](broken_id.4bvk7pj) sub-tab.
 
-## NOTE: Until all reviewers have approved the evaluation, or unless turned off in the [Unapproved Evaluations](#id.2r0uhxc) configuration sub-tab of the Global Settings tab, DRAFT will appear across each page of the report when printing or previewing.
+## NOTE: Until all reviewers have approved the evaluation, or unless turned off in the [Unapproved Evaluations](broken_id.2r0uhxc) configuration sub-tab of the Global Settings tab, DRAFT will appear across each page of the report when printing or previewing.
 
 ***
 
-The Signatures tab will appear in the Evaluation Reviewer to allow an evaluation to be signed by the reviewer when the "Allow completed evaluations to be signed before they are fully-reviewed" checkbox is checked (in the [Signatures](#id.1664s55) sub-tab of the [System Utilities](#id.2xcytpi) form's [Global Settings](#id.46r0co2) tab).
+The Signatures tab will appear in the Evaluation Reviewer to allow an evaluation to be signed by the reviewer when the "Allow completed evaluations to be signed before they are fully-reviewed" checkbox is checked (in the [Signatures](broken_id.1664s55) sub-tab of the [System Utilities](broken_id.2xcytpi) form's [Global Settings](broken_id.46r0co2) tab).
 
 ## NOTE: If the "Allow completed evaluations to be signed before they are fully-reviewed" checkbox is checked , a confirmation prompt will appear for reviewers when they disapprove evaluations. Choosing 'Yes' at the following prompt will cause all existing signatures to be cleared and the Signatures tab to disappear, since the evaluation is no longer in the 'Complete' state:
 
@@ -101,11 +101,11 @@ The Signatures tab will appear in the Evaluation Reviewer to allow an evaluation
 
 ***
 
-The Trainer/Supervisor form View Evaluation tab is accessed via the Trainer/Supervisor - View Evaluation menu item on the [main form](#id.3znysh7).
+The Trainer/Supervisor form View Evaluation tab is accessed via the Trainer/Supervisor - View Evaluation menu item on the [main form](broken_id.3znysh7).
 
-![](#id.2dlolyb) will appear with the selected evaluation. Clicking the Close button will close this window.
+![](broken_id.2dlolyb) will appear with the selected evaluation. Clicking the Close button will close this window.
 
-## NOTE: If the "Prevent unapproved evaluations from appearing in the View Evaluation tab until fully-reviewed" checkbox is checked, all evaluations written by trainers/supervisors who have one or more assigned reviewers must be fully reviewed in order for those evaluations to appear in the View Evaluation tab. The "Prevent..." checkbox may be found in the [Unapproved Evaluations](#id.2r0uhxc) sub-tab of the [Global Settings tab](#id.46r0co2).
+## NOTE: If the "Prevent unapproved evaluations from appearing in the View Evaluation tab until fully-reviewed" checkbox is checked, all evaluations written by trainers/supervisors who have one or more assigned reviewers must be fully reviewed in order for those evaluations to appear in the View Evaluation tab. The "Prevent..." checkbox may be found in the [Unapproved Evaluations](broken_id.2r0uhxc) sub-tab of the [Global Settings tab](broken_id.46r0co2).
 
 ***
 
@@ -113,13 +113,13 @@ The Trainer/Supervisor form View Evaluation tab is accessed via the Trainer/Supe
 
 ***
 
-The Trainer/Supervisor form Reports tab is accessed via the Trainer/Supervisor - Reports menu item on the [main form](#id.3znysh7).
+The Trainer/Supervisor form Reports tab is accessed via the Trainer/Supervisor - Reports menu item on the [main form](broken_id.3znysh7).
 
-![](#id.3q5sasy)
-* [Trainee/Employee Roster](#id.25b2l0r)
-* [Trainer/Supervisor Reports](#id.kgcv8k)
-* [Trainee/Employee Reports](#id.34g0dwd)
-* [Training Time Report](#id.1jlao46)
+![](broken_id.3q5sasy)
+* [Trainee/Employee Roster](broken_id.25b2l0r)
+* [Trainer/Supervisor Reports](broken_id.kgcv8k)
+* [Trainee/Employee Reports](broken_id.34g0dwd)
+* [Training Time Report](broken_id.1jlao46)
 
 ![](<.gitbook/assets/14 (1).png>)
 
@@ -129,16 +129,16 @@ Select the type of report to be viewed and then click the View Report button. Cl
 
 ***
 
-The Download form allows information entered at one workstation to be saved to an external file for the purpose of transferring to another workstation. It provides users that do not have network access the ability to maintain a [centralized database](#id.3dy6vkm). To bring up the Download form select the Administrator - Download menu item on the [main form](#id.3znysh7).
+The Download form allows information entered at one workstation to be saved to an external file for the purpose of transferring to another workstation. It provides users that do not have network access the ability to maintain a [centralized database](broken_id.3dy6vkm). To bring up the Download form select the Administrator - Download menu item on the [main form](broken_id.3znysh7).
 
-![](#id.37m2jsg) and the user's [security level](#id.3ygebqi). The tabs are labeled as follows:
+![](broken_id.37m2jsg) and the user's [security level](broken_id.3ygebqi). The tabs are labeled as follows:
 
-* [Trainers/Supervisors](#id.206ipza)
-* [Trainees/Employees](#id.4k668n3)
-* [Evaluations by Trainer/Supervisor](#id.43ky6rz)
-* [Evaluations by Trainee/Employee](#id.1egqt2p)
-* [Criteria Sets](#id.2zbgiuw)
-* [System Tables](#id.3l18frh)
+* [Trainers/Supervisors](broken_id.206ipza)
+* [Trainees/Employees](broken_id.4k668n3)
+* [Evaluations by Trainer/Supervisor](broken_id.43ky6rz)
+* [Evaluations by Trainee/Employee](broken_id.1egqt2p)
+* [Criteria Sets](broken_id.2zbgiuw)
+* [System Tables](broken_id.3l18frh)
 
 ## NOTE: Only those downloaded Zip files from a source database which is configured by the same Expectations version as the destination database are supported in the upload process. The source and destination databases may be either of the two database types in any combination of MS Access or SQL Server.
 
@@ -148,9 +148,9 @@ The Download form allows information entered at one workstation to be saved to a
 
 ***
 
-The Upload form allows information entered and downloaded at one workstation to be transferred to another. It provides users that do not have network access the ability to maintain a [centralized database](#id.3dy6vkm). To bring up the Upload form select the Administrator - Upload menu item on the [main form](#id.3znysh7).
+The Upload form allows information entered and downloaded at one workstation to be transferred to another. It provides users that do not have network access the ability to maintain a [centralized database](broken_id.3dy6vkm). To bring up the Upload form select the Administrator - Upload menu item on the [main form](broken_id.3znysh7).
 
-![](#id.37m2jsg) and by the user's [security level](#id.3ygebqi). Security levels 1 and 2 are only allowed to upload evaluations. On a stand-alone system only trainers/supervisors, trainees/employees and criteria sets can be uploaded.
+![](broken_id.37m2jsg) and by the user's [security level](broken_id.3ygebqi). Security levels 1 and 2 are only allowed to upload evaluations. On a stand-alone system only trainers/supervisors, trainees/employees and criteria sets can be uploaded.
 
 ![](<.gitbook/assets/17 (1).png>)
 

@@ -1,6 +1,6 @@
 # Expectations Evaluation Techniques Here
 
-## <h3><strong>Evaluation Techniques</strong></h3>
+## <strong>Evaluation Techniques</strong>
 -----------------------------------------------
 
 * Evaluation Techniques
@@ -8,7 +8,7 @@
 * Writing your own Evaluation Criteria
 * Evaluation Frequency
 
-## <h3>Evaluation Techniques</h3>
+## Evaluation Techniques
 ------------------------------
 
 Evaluation of employee performance and behavior is seen as a "necessary evil." Employees generally do not like the process, and supervisors see it as something that has to be done once a year.

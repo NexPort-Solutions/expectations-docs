@@ -14,7 +14,7 @@ entered using the [Guide Card Editor](Guide%20Card%20Editor.htm).
 ![](Call-Taker%20Actions_files/image001.png){border="0" width="697"
 height="501"}
 
-[Hyperlinks]{.underline}
+# Hyperlinks
 
 Hyperlinks can appear in the call-taker actions and are indicated by a
 blue underlined font.  The mouse cursor is seen as a hand with the index

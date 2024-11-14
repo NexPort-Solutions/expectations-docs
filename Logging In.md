@@ -2,13 +2,13 @@
   **Logging In**
   ----------------
 
-[User Login]{.underline}
+# User Login
 
 Logging into Premier Responder is accomplished from the **Premier
 Responder** **User Login** dialog window.  To display the login dialog
 select the main form **File - Log In** menu item.
 
-![](Logging%20In_files/image007.png){border="0" width="146" height="98"}
+![](Logging%20In_files/image007.png)
 
 The **Premier Responder User Login** dialog consists of a **Users**
 list, a **Password** text box, a **Log In** and a **Cancel** button. 
@@ -18,7 +18,7 @@ window without logging in select the **Cancel** button.
 ![](Logging%20In_files/image001.png){border="0" width="386"
 height="268"}
 
-[Logging In]{.underline}
+# Logging In
 
 To log into Premier Responder, on the **Premier Responder User Login**
 dialog window:

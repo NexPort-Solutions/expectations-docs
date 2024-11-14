@@ -2,7 +2,7 @@
   **Guide Card Editor**
   -----------------------
 
-[Starting The Guide Card Editor]{.underline}
+# Starting The Guide Card Editor
 
 The guide card content appearing on the call-taker window during the
 course of a call is entered into Premier Responder using the **Guide
@@ -32,7 +32,7 @@ top right hand corner of the tab closes the **Guide Card Editor**.
 ![](Guide%20Card%20Editor_files/image001.png){border="0" width="655"
 height="504"}
 
-[Loading A Guide Card]{.underline}
+# Loading A Guide Card
 
 To load a guide card into the editor, first indicate the **Call Type**
 by making a selection from the drop down list.  This loads the
@@ -47,7 +47,7 @@ information that is related to the specified complaint.
 ![](Guide%20Card%20Editor_files/image002.png){border="0" width="655"
 height="269"}
 
-[Vital Points Tab]{.underline}
+# Vital Points Tab
 
 Vital point questions appear on the **Vital Points** sub tab of the
 **Guide Cards** tab.  Questions are shown in question list box just
@@ -82,7 +82,7 @@ are used as follows:
 ![](Guide%20Card%20Editor_files/image003.png){border="0" width="655"
 height="504"}
 
-[Priority Tab]{.underline}
+# Priority Tab
 
 Dispatch categories for the indicated **Call Type** together with the
 **Guide Card** symptoms appear on the **Priority** sub tab of the
@@ -113,8 +113,8 @@ description and code text boxes to enter symptoms for the selected
 ![](Guide%20Card%20Editor_files/image004.png){border="0" width="655"
 height="504"}
 
-[Call-Taker Act, Pre-Arrival, Dispatcher Act, & Background
-Tabs]{.underline}
+# Call-Taker Act, Pre-Arrival, Dispatcher Act, & Background
+Tabs
 
 The **Call-Taker Act**, **Pre-Arrival**, **Dispatcher Act**, and
 **Background** sub tabs display rich text.  To change the text on any of
@@ -126,7 +126,7 @@ automatically saved.
 ![](Guide%20Card%20Editor_files/image005.png){border="0" width="655"
 height="504"}
 
-[Short Report Tab]{.underline}
+# Short Report Tab
 
 The **Short Report** sub tab is used to edit the portion of the short
 report that includes the vital point entries.  Text can be pasted into

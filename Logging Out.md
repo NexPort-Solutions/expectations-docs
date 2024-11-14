@@ -2,7 +2,7 @@
   **Logging Out**
   -----------------
 
-[User Log Out]{.underline}
+# User Log Out
 
 To log the current user out of Premier Responder select the **File - Log
 Out** menu item from the main application window.

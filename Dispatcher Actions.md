@@ -16,7 +16,7 @@ height="501"}
 
  
 
-[Hyperlinks]{.underline}
+# Hyperlinks
 
 Hyperlinks can appear in the dispatcher actions and are indicated by a
 blue underlined font.  The mouse cursor is seen as a hand with the index

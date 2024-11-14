@@ -2,7 +2,7 @@
   **Data File Updates**
   -----------------------
 
-[Update Data Screen]{.underline}
+# Update Data Screen
 
 Data file updates in the form of a Windows Installer Package can be
 installed to remote machines from the administrator Update Data screen. 

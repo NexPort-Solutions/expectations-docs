@@ -2,7 +2,7 @@
   **Starting a Case**
   ---------------------
 
-[Starting a Case]{.underline}
+# Starting a Case
 
 A new case can be started when the call-taker main window caption
 indicates \"Waiting For Call\".  To start a new case, either:
@@ -23,7 +23,7 @@ height="98"}
 -   make the appropriate entry from a CAD system having an interface to
     Premier Responder
 
-[Active Call Window]{.underline}
+# Active Call Window
 
 When a new call is started, the active call window opens.  The active
 call window includes two toolbars at the top having a number of buttons
@@ -44,7 +44,7 @@ Note when the active call window first opens:
 ![](Starting%20a%20Case_files/image003.png){border="0" width="697"
 height="501"}
 
-[Toolbar Buttons]{.underline}
+# Toolbar Buttons
 
 The toolbar buttons at the top of the active call window can be
 configured to appear or not using the settings found on the [Call Taker
@@ -89,7 +89,7 @@ buttons along with a brief description are as follows:
 -   [Procedure Categories](Medical%20Procedures.htm) - opens a drop down
     list of available procedures for the category
 
-[Call Taking Screens]{.underline}
+# Call Taking Screens
 
 The tabs that appear on the active call window are used to select one of
 the available call taking screens.  These are configurable by call

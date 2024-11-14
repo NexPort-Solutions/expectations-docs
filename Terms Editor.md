@@ -2,7 +2,7 @@
   **Terms Editor**
   ------------------
 
-[Terms Editor Window]{.underline}
+# Terms Editor Window
 
 The Terms Editor is used to enter the terms and abbreviations that
 appear in the [Terms window](Medical%20Terms.htm).  To open the Terms
@@ -17,7 +17,7 @@ Editor** button to close the Terms Editor.
 ![](Terms%20Editor_files/image001.png){border="0" width="655"
 height="229"}
 
-[Abbreviations Tab]{.underline}
+# Abbreviations Tab
 
 Abbreviations with their associated terms are entered on the
 **Abbreviations** tab of the **Terms Editor**.  All abbreviations for
@@ -32,7 +32,7 @@ first select it and then click on the **Delete** button.
 ![](Terms%20Editor_files/image002.png){border="0" width="655"
 height="504"}
 
-[Definitions Tab]{.underline}
+# Definitions Tab
 
 Terms with their associated definitions are entered on the **Glossary**
 tab of the Terms Editor.  All terms for the indicated call type are
@@ -47,7 +47,7 @@ default values.  To delete a term, first select it and then click on the
 ![](Terms%20Editor_files/image003.png){border="0" width="655"
 height="504"}
 
-[Terminologies]{.underline}
+# Terminologies
 
 Existing terminology categories for the selected call type are listed in
 the **Terminology** drop down.  When a term is selected on either the

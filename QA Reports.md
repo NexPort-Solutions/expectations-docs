@@ -12,7 +12,7 @@ charts and statistics generated.
 ![](QA%20Reports_files/image001.png){border="0" width="639"
 height="400"}
 
-[Reporting Period]{.underline}
+# Reporting Period
 
 By default, the **QA Reports** screen opens showing calls for the *past
 6 months*.  The report period can be changed on the main toolbar by
@@ -21,7 +21,7 @@ the **from** and **to** dates.  Making a selection in the drop down
 automatically sets both dates.  Changing either date sets the drop down
 selection to *other*.
 
-[Statistics Table]{.underline}
+# Statistics Table
 
 Cases that fall within the given time period can be subdivided by call
 type, chief complaint, or dispatcher by making a selection in the
@@ -33,7 +33,7 @@ table on the **Stats** tab.
 ![](QA%20Reports_files/image002.png){border="0" width="639"
 height="400"}
 
-[Statistical Charts]{.underline}
+# Statistical Charts
 
 The graphic on the **Chart** tab is generated for the selected subset of
 cases from data indicated by the checked **Source** menu item.** **
@@ -47,7 +47,7 @@ the chart.
 ![](QA%20Reports_files/image003.png){border="0" width="639"
 height="400"}
 
-[Charting Options]{.underline}
+# Charting Options
 
 Accessible from the **Chart Settings** button are **Type** and
 **Interval** menu options.  The **Type** menu selections change the
@@ -57,7 +57,7 @@ Chart*, *Bar Chart*, *Column Chart*, *Line Chart*, *Point Chart*, and
 points can be changed using the *Years*, *Months*, and *Days*
 selections.
 
-[Stored Reports]{.underline}
+# Stored Reports
 
 After the desired results are obtained, the report configuration can be
 saved by entering a unique title in the **Report** combo box and
@@ -69,7 +69,7 @@ it has been loaded.
 ![](QA%20Reports_files/image004.png){border="0" width="639"
 height="400"}
 
-[Saving & Printing]{.underline}
+# Saving & Printing
 
 The **Print** button is enabled after making a selection in the
 **Results** list and a chart is being displayed.  Selecting the button

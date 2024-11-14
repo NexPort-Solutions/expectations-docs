@@ -2,7 +2,7 @@
   **Available Guide Card Editor**
   ---------------------------------
 
-[Available Guide Cards Form]{.underline}
+# Available Guide Cards Form
 
 Each Premier Responder guide card identifies a specific complaint.  The
 **Available Guide Cards** editor is used to manage the guide cards or
@@ -29,7 +29,7 @@ description will appear. 
 ![](Available%20Guide%20Cards%20Editor_files/image002.png){border="0"
 width="655" height="504"}
 
-[Managing Guide Cards]{.underline}
+# Managing Guide Cards
 
 The procedures that follow describe the guide card management functions
 performed in the **Available Guide Cards** editor.
@@ -100,7 +100,7 @@ To reorder the guide cards:
 -   The selected complaint moves down one position in the **Guide
     Cards** list.
 
-[Complaint Codes]{.underline}
+# Complaint Codes
 
 When problem codes are associated with complaints in Premier Responder,
 CAD can use the codes to remotely get and set the complaint.  These

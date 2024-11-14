@@ -2,7 +2,7 @@
   **Key Questions**
   -------------------
 
-[Key Questions Tab]{.underline}
+# Key Questions Tab
 
 The **Key Questions** are the criteria used to determine the [dispatch
 priority](Priorities.htm).  They are located on the **Key Questions**
@@ -21,7 +21,7 @@ in the administrator application.
 ![](Vital%20Points_files/image001.png){border="0" width="697"
 height="501"}
 
-[Notifications To CAD]{.underline}
+# Notifications To CAD
 
 With a CAD system having an interface to Premier Responder, a
 notification is sent when a key question entry is made.  Notifications
@@ -29,7 +29,7 @@ include a narrative that can be configured using the settings on the
 [Key Question Narrative Settings configuration
 screen](Vital%20Point%20Narrative%20Settings.htm).
 
-[Rule of Nines Dialog Window]{.underline}
+# Rule of Nines Dialog Window
 
 A hyperlink to the Rule of Nines dialog window appears as blue text. 
 The Rule of Nines dialog window is used to determine the extent of burns

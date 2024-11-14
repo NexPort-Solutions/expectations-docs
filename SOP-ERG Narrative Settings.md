@@ -6,7 +6,7 @@ Selecting **SOP/ERG Narrative** from the **Configuration Settings** list
 on the **Premier Responder Administrator Settings** tab displays the
 following settings:
 
-[SOP]{.underline}
+# SOP
 
 -   **Completed Narrative**: When checked, enables  narratives to CAD
     for [completed SOP actions](Standard%20Operating%20Procedure.htm).
@@ -20,7 +20,7 @@ following settings:
 -   **Narrative Length**: Specifies the maximum length of narrative.  A
     value of 0 indicates no limit.
 
-[ERG]{.underline}
+# ERG
 
 -   **Narrative Content**: When checked, label and content included in
     narrative to CAD for [selected ERG

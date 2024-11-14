@@ -12,7 +12,7 @@ with the **Tools - Call Recordings** menu item or from the [Case
 Reports](Case%20Reports.htm) screen using the **Recordings** toolbar
 button.
 
-[Searching for Recordings]{.underline}
+# Searching for Recordings
 
 When opened from the **Case Reports** screen, a search is automatically
 performed for recordings that were made during the time of the indicated
@@ -36,7 +36,7 @@ number when the number of rows exceeds the set page size.
 ![](VPI%20Recordings_files/image002.png){border="0" width="646"
 height="400"}
 
-[Playing Recordings]{.underline}
+# Playing Recordings
 
 To play a recording, either click on the **Search Results** toolbar
 **Open** button after having selected a row in the **Search Results**

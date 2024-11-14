@@ -11,7 +11,7 @@ with the **Tools - Call Recordings** menu item or from the [Case
 Reports](Case%20Reports.htm) screen using the **Recordings** toolbar
 button.
 
-[Searching for Recordings]{.underline}
+# Searching for Recordings
 
 When opened from the **Case Reports** screen, the from and to dates are
 automatically set to the start and end time of the indicated call,
@@ -30,7 +30,7 @@ criteria  appear in the **Search Results** list.
 ![](NICE%20Recordings_files/image002.PNG){border="0" width="639"
 height="400"}
 
-[Playing Recordings]{.underline}
+# Playing Recordings
 
 To play a recording, select a row in the **Search Results** list.  Once
 the recording is successfully retrieved, click on the **Play** button. 

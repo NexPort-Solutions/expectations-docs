@@ -2,7 +2,7 @@
   **Software Deactivation**
   ---------------------------
 
-[Deactivate Licensing Menu]{.underline}
+# Deactivate Licensing Menu
 
 A **Deactivate Licensing** menu option is available from within the
 **Help** menu of each application.  The menu is enabled when logged on
@@ -16,7 +16,7 @@ the host machine and the indirect method when not.
 ![](Software%20Deactivation_files/image001.png){border="0" width="216"
 height="126"}
 
-[Direct Deactivation]{.underline}
+# Direct Deactivation
 
 When internet access is available on the host machine the software can
 be deactivated directly.  Selecting the **Deactivate Licensing -
@@ -29,7 +29,7 @@ successful.  Upon closing the dialog the application terminates.
 ![](Software%20Deactivation_files/image002.png){border="0" width="431"
 height="233"}
 
-[Indirect Deactivation]{.underline}
+# Indirect Deactivation
 
 When internet access is not available on the host machine, the software
 must be deactivated indirectly using a machine that does have internet

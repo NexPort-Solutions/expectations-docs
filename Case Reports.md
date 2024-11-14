@@ -2,7 +2,7 @@
   **Case Reports**
   ------------------
 
-[Opening a Report]{.underline}
+# Opening a Report
 
 The **Case Report** tab is opened from the Premier Responder Supervisor
 window [**QA Cases** tab](Case%20Review.htm).  On the **Case Report**
@@ -20,7 +20,7 @@ menu item or the **X** toolbar button.
 ![](Case%20Reports_files/image004.png){border="0" width="640"
 height="192"}
 
-[Report Sections]{.underline}
+# Report Sections
 
 At the top of the report is the header.  It includes entries for the
 **Case Number**, **Dispatcher**, **Call Time**, and **Call Length**. 
@@ -40,7 +40,7 @@ together with an associated time stamp.
 ![](Case%20Reports_files/image002.png){border="0" width="639"
 height="400"}
 
-[Adding Comments to a Report]{.underline}
+# Adding Comments to a Report
 
 Comments can be added to the case report, either at the end of a line or
 between lines.  To add a comment, position the cursor appropriately and
@@ -51,7 +51,7 @@ order to stand out.
 ![](Case%20Reports_files/image003.png){border="0" width="639"
 height="400"}
 
-[Saving and Hiding Comments in Report]{.underline}
+# Saving and Hiding Comments in Report
 
 For case reports with comments, the **Comments - Hide** menu item is
 enabled.  Use the **Comments - Hide** menu item to hide comments.  With
@@ -67,7 +67,7 @@ with comments hidden the **Comments - Save** menu item is disabled. 
 Also note that saved comments are permanent.  Before saving, be sure
 comments have been correctly entered and are not hidden.
 
-[Saving a Report to a File]{.underline}
+# Saving a Report to a File
 
 Use the **File - Save** menu item on the **Case Report** tab toolbar to
 save the case report to a rich text file.  Selecting **File - Save**
@@ -79,7 +79,7 @@ include comments.
 ![](Case%20Reports_files/image005.png){border="0" width="639"
 height="189"}
 
-[Printing a Report]{.underline}
+# Printing a Report
 
 To print the case report, select the **File - Print** menu item on the
 **Case Report** tab toolbar.  This opens the standard **Print** dialog

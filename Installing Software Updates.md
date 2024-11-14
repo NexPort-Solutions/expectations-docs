@@ -2,7 +2,7 @@
   **Software Updates**
   ----------------------
 
-[Update Software Screen]{.underline}
+# Update Software Screen
 
 Software updates in the form of a Windows Installer Package can be
 installed to remote machines from the administrator Update Software

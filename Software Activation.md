@@ -2,7 +2,7 @@
   **Software Activation**
   -------------------------
 
-[Activation Dialog]{.underline}
+# Activation Dialog
 
 When purchasing the software, a license with a fixed number of
 activations is issued.  Until the software has been activated using the
@@ -20,7 +20,7 @@ application.
 ![](Software%20Activation_files/Image001.png){border="0" width="498"
 height="246"}
 
-[Direct Activation]{.underline}
+# Direct Activation
 
 When internet access is available on the host machine the software can
 be activated directly.  Selecting the **Activate Online** button opens a
@@ -34,7 +34,7 @@ activation successful dialog the application loads.
 ![](Software%20Activation_files/Image002.png){border="0" width="427"
 height="215"}
 
-[Indirect Activation]{.underline}
+# Indirect Activation
 
 When internet access is not available on the host machine, the software
 must be activated indirectly using a machine that does have internet

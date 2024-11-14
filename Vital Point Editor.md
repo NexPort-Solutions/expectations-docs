@@ -2,7 +2,7 @@
   **Key Questions Editor**
   --------------------------
 
-[The Key Questions Editor]{.underline}
+# The Key Questions Editor
 
 The Key Questions Editor is found on the **Key Questions** sub tab of
 the [Available Guide Cards
@@ -22,7 +22,7 @@ tab.
 ![](Vital%20Point%20Editor_files/image001.png){border="0" width="655"
 height="504"}
 
-[Question Edit Screen]{.underline}
+# Question Edit Screen
 
 The edit fields seen on the **Question** screen define the key
 question.  They determine its appearance, the type of entry, and how the
@@ -38,7 +38,7 @@ used as follows:
 >     block of text.
 > 4.  ***I*** button - use to set or clear italicfont style of selected
 >     block of text.
-> 5.  **[U]{.underline}** button - use to set or clear underline font
+> 5.  **# U** button - use to set or clear underline font
 >     style of selected block of text.
 
 -   The question text is entered into the edit field below the tool bar
@@ -91,11 +91,11 @@ used as follows:
 ![](Vital%20Point%20Editor_files/image002.png){border="0" width="655"
 height="504"}
 
-[List Items Edit **Screen**]{.underline}
+# List Items Edit **Screen**
 
 Shown on the **List Items** edit screen are the key question
 selections.  The screen is disabled when the **Entry Type** indicates
-[None]{.underline} or [Free Text]{.underline}.  For **Yes/No** and **Y/N
+# None or # Free Text.  For **Yes/No** and **Y/N
 & Text** question styles the selections are fixed (**YES** and **NO**
 only) and editing restricted to entering links and narratives.  **Item
 List** style questions can have an indefinite number of selections.  The
@@ -130,7 +130,7 @@ List** style questions can have an indefinite number of selections.  The
 > 5.  **Instruction:** displays a [medical
 >     procedure](Medical%20Procedures.htm).
 
-[Creating Default Links & Item Links]{.underline}
+# Creating Default Links & Item Links
 
 The **Links** buttons on the **Question** and **List Items** edit
 screens open pop-up menus with the possible link actions.  To create a

@@ -2,7 +2,7 @@
   **License Status**
   --------------------
 
-[License Status Tab]{.underline}
+# License Status Tab
 
 The **License Status** tab is available when utilizing a network
 license.  It opens with the **Tools - License Status** menu item.  At

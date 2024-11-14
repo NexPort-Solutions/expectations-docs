@@ -2,7 +2,7 @@
   **Contacts Editor**
   ---------------------
 
-[Contacts Form]{.underline}
+# Contacts Form
 
 Adding, deleting, and modifying contact information is accomplished via
 the "Contacts" tab.  Editing contacts is a function reserved for an
@@ -20,7 +20,7 @@ text description of the control will appear.
 ![](Contacts%20Editor_files/image002.png){border="0" width="655"
 height="504"}
 
-[Adding a Contact]{.underline}
+# Adding a Contact
 
 To add a contact, perform the following steps:
 
@@ -31,7 +31,7 @@ To add a contact, perform the following steps:
 -   The form remains open and the contact information is applied
     immediately.
 
-[Deleting a Contact]{.underline}
+# Deleting a Contact
 
 To delete a contact, perform the following steps:
 
@@ -40,7 +40,7 @@ To delete a contact, perform the following steps:
 -   Click the **Delete** button.
 -   The contact information is immediately removed from the listbox.
 
-[Modifying a Contact]{.underline}
+# Modifying a Contact
 
 To modify a contact, perform the following steps:
 

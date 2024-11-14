@@ -3,7 +3,7 @@
   **Update Case**
   -----------------
 
-**[Enabling Update Case Feature]{.underline}**
+**# Enabling Update Case Feature**
 
 **[The Update Case feature is used to append information to existing
 calls in case of a call back or related/duplicate call.  It is turned on

@@ -20,7 +20,7 @@ can be reviewed immediately.
 ![](Ending%20a%20Case_files/Image002.png){border="0" width="570"
 height="248"}
 
-[Viewing a Report]{.underline}
+# Viewing a Report
 
 The **Report** window is used to view the case report or the [short
 report](Short%20Report.htm) of a previously entered call.  To open the

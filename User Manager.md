@@ -2,7 +2,7 @@
   **User Manager**
   ------------------
 
-[User Manager]{.underline}
+# User Manager
 
 Adding, deleting and modifying user logins is accomplished with the User
 Manager.  To bring up the User Manager, log into Premier Responder
@@ -20,7 +20,7 @@ button to see the tool tip. To exit the User Manager select the **X**
 ![](User%20Manager_files/usermanager002.png){border="0" width="655"
 height="504"}
 
- [Adding a User Login]{.underline}
+ # Adding a User Login
 
 To add a user login, perform the following steps:
 
@@ -42,7 +42,7 @@ To add a user login, perform the following steps:
 5.  Upon successfully adding a login, the user ID is added to the
     **Users** list.
 
-[Deleting a User Login]{.underline}
+# Deleting a User Login
 
 To delete a user login, perform the following steps:
 
@@ -56,7 +56,7 @@ To delete a user login, perform the following steps:
 3.  Upon successfully deleting a login, the user ID is removed from the
     **Users** list.
 
-[Modifying a User Login]{.underline}
+# Modifying a User Login
 
 To modify a user login, perform the following steps:
 

@@ -11,7 +11,7 @@ configuration screen](Guide%20Card%20Tabs%20Settings.htm).  The
 background information is entered on the **Background** tab of the
 [Guide Card Editor](Guide%20Card%20Editor.htm).
 
-<figure><img src=".gitbook/assets/Background%20Information_files/image001.png" alt=""><figcaption></figcaption></figure>{border="0" width="697"
+<figure><img src=".gitbook/assets/Background Information_files/image001.png" alt=""><figcaption></figcaption></figure>{border="0" width="697"
 height="501"}
 
  

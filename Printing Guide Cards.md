@@ -14,7 +14,7 @@ selecting the guide card set and buttons for saving, printing and
 previewing the generated report. A tool tip appears when hovering the
 mouse cursor over one of the buttons.
 
-<figure><img src=".gitbook/assets/Printing%20Guide%20Cards_files/image001.png" alt=""><figcaption></figcaption></figure>{border="0" width="655"
+<figure><img src=".gitbook/assets/Printing Guide Cards_files/image001.png" alt=""><figcaption></figcaption></figure>{border="0" width="655"
 height="504"}
 
 # Generate Report
@@ -32,7 +32,7 @@ short report.  Each section only appears when enabled and with the label
 given on the [Guide Card Tabs
 Settings](Guide%20Card%20Tabs%20Settings.htm) configuration screen.
 
-<figure><img src=".gitbook/assets/Printing%20Guide%20Cards_files/image006.png" alt=""><figcaption></figcaption></figure>{border="0" width="655"
+<figure><img src=".gitbook/assets/Printing Guide Cards_files/image006.png" alt=""><figcaption></figcaption></figure>{border="0" width="655"
 height="74"}
 
 # Save Report
@@ -44,7 +44,7 @@ window.  To save the report, browse to the desired folder and select the
 prefixed to the text \"Guide Cards.rtf\".  Use the **Cancel** button to
 close the window without saving.
 
-<figure><img src=".gitbook/assets/Printing%20Guide%20Cards_files/image005.png" alt=""><figcaption></figcaption></figure>{border="0" width="626"
+<figure><img src=".gitbook/assets/Printing Guide Cards_files/image005.png" alt=""><figcaption></figcaption></figure>{border="0" width="626"
 height="505"}
 
 # Print Report
@@ -59,7 +59,7 @@ copies** value to print more than one copy.  Selecting the **Print**
 button sends the report to the indicated printer.  Select the **Cancel**
 button to close the window without printing.
 
-<figure><img src=".gitbook/assets/Printing%20Guide%20Cards_files/image002.png" alt=""><figcaption></figcaption></figure>{border="0" width="460"
+<figure><img src=".gitbook/assets/Printing Guide Cards_files/image002.png" alt=""><figcaption></figcaption></figure>{border="0" width="460"
 height="418"}
 
 # Preview Report
@@ -73,7 +73,7 @@ viewed with the **One page**, **Two pages**, **Three pages**, **Four
 pages**, and **Six pages** buttons.  Select the **Close** button to
 close the window.
 
-<figure><img src=".gitbook/assets/Printing%20Guide%20Cards_files/image003.png" alt=""><figcaption></figcaption></figure>{border="0" width="641"
+<figure><img src=".gitbook/assets/Printing Guide Cards_files/image003.png" alt=""><figcaption></figcaption></figure>{border="0" width="641"
 height="497"}
 
 # Page Setup
@@ -86,7 +86,7 @@ page layouts.  Set the print margin values in the **Left**, **Right**,
 **Top**, and **Bottom** text boxes.  Select **OK** to apply changes or
 **Cancel** to exit without saving.
 
-<figure><img src=".gitbook/assets/Printing%20Guide%20Cards_files/image004.png" alt=""><figcaption></figcaption></figure>{border="0" width="362"
+<figure><img src=".gitbook/assets/Printing Guide Cards_files/image004.png" alt=""><figcaption></figcaption></figure>{border="0" width="362"
 height="417"}
 
  

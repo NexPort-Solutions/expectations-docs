@@ -15,7 +15,7 @@ Note that editing is enabled for priority categories other than
 medical.  Changes to the medical priority categories require the
 approval of the local medical director.
 
-<figure><img src=".gitbook/assets/Priority%20Categories%20Editor/Image001.png" alt=""><figcaption></figcaption></figure>{border="0" width="655"
+<figure><img src=".gitbook/assets/Priority Categories Editor/Image001.png" alt=""><figcaption></figcaption></figure>{border="0" width="655"
 height="207"}
 
 # Indicating The Call Type
@@ -27,7 +27,7 @@ into the **Priority Categories** list.  Additionally, the **New**
 button, showing an image of a blank sheet of paper on the face, is
 enabled.
 
-<figure><img src=".gitbook/assets/Priority%20Categories%20Editor/Image002.png" alt=""><figcaption></figcaption></figure>{border="0" width="655"
+<figure><img src=".gitbook/assets/Priority Categories Editor/Image002.png" alt=""><figcaption></figcaption></figure>{border="0" width="655"
 height="294"}
 
 # Adding A Category
@@ -38,7 +38,7 @@ Category**, and is automatically selected.  Once a category has been
 selected, the other buttons on the window become enabled.  The selected
 category is shown highlighted in the list.
 
-<figure><img src=".gitbook/assets/Priority%20Categories%20Editor/Image003.png" alt=""><figcaption></figcaption></figure>{border="0" width="655"
+<figure><img src=".gitbook/assets/Priority Categories Editor/Image003.png" alt=""><figcaption></figcaption></figure>{border="0" width="655"
 height="236"}
 
 # Changing The Name
@@ -48,7 +48,7 @@ Name** text box located to the right of the **Select** listbox.  Changes
 made to the name automatically appear in the Select listbox and are
 applied upon clicking the Save button located at the top of the window. 
 
-<figure><img src=".gitbook/assets/Priority%20Categories%20Editor/Image004.png" alt=""><figcaption></figcaption></figure>{border="0" width="655"
+<figure><img src=".gitbook/assets/Priority Categories Editor/Image004.png" alt=""><figcaption></figcaption></figure>{border="0" width="655"
 height="230"}
 
 # Ordering The Categories
@@ -76,7 +76,7 @@ located to the right of the **Select** listbox, and just below the
 **Save** button. To clear the code, highlight the text and press the
 delete button on the keyboard, then click the Save button.
 
-<figure><img src=".gitbook/assets/Priority%20Categories%20Editor/Image005.png" alt=""><figcaption></figcaption></figure>{border="0" width="655"
+<figure><img src=".gitbook/assets/Priority Categories Editor/Image005.png" alt=""><figcaption></figcaption></figure>{border="0" width="655"
 height="235"}
 
 # Removing A Category

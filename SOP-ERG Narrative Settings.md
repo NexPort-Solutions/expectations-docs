@@ -26,5 +26,5 @@ following settings:
     narrative to CAD for [selected ERG
     material](NAERG%20Guide%20Book.htm).
 
-<figure><img src=".gitbook/assets/SOP-ERG%20Narrative%20Settings_files/image001.png" alt=""><figcaption></figcaption></figure>{border="0"
+<figure><img src=".gitbook/assets/SOP-ERG Narrative Settings_files/image001.png" alt=""><figcaption></figcaption></figure>{border="0"
 width="655" height="504"}

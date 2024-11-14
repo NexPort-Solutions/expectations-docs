@@ -18,7 +18,7 @@ Application Program Interface (API) and include:
 
 (Network connection)
 
-<figure><img src=".gitbook/assets/Network%20connection_files/image001.png" alt=""><figcaption></figcaption></figure>{border="0" width="603"
+<figure><img src=".gitbook/assets/Network connection_files/image001.png" alt=""><figcaption></figcaption></figure>{border="0" width="603"
 height="231"}
 
 A normal or error response will be sent back to the CAD for each

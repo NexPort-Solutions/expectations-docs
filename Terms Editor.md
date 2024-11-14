@@ -14,7 +14,7 @@ and **Delete** menu buttons are disabled for [call types whose content
 is protected](Available%20Call%20Types%20Editor.htm).  Use the **Close
 Editor** button to close the Terms Editor.
 
-<figure><img src=".gitbook/assets/Terms%20Editor_files/image001.png" alt=""><figcaption></figcaption></figure>{border="0" width="655"
+<figure><img src=".gitbook/assets/Terms Editor_files/image001.png" alt=""><figcaption></figcaption></figure>{border="0" width="655"
 height="229"}
 
 # Abbreviations Tab
@@ -29,7 +29,7 @@ button to create a new abbreviation/term.  The **Abbreviation** and
 **Term** fields are set to default values.  To delete an abbreviation,
 first select it and then click on the **Delete** button.
 
-<figure><img src=".gitbook/assets/Terms%20Editor_files/image002.png" alt=""><figcaption></figcaption></figure>{border="0" width="655"
+<figure><img src=".gitbook/assets/Terms Editor_files/image002.png" alt=""><figcaption></figcaption></figure>{border="0" width="655"
 height="504"}
 
 # Definitions Tab
@@ -44,7 +44,7 @@ term/definition.  The **Term** and **Definition** fields are set to
 default values.  To delete a term, first select it and then click on the
 **Delete** button.
 
-<figure><img src=".gitbook/assets/Terms%20Editor_files/image003.png" alt=""><figcaption></figcaption></figure>{border="0" width="655"
+<figure><img src=".gitbook/assets/Terms Editor_files/image003.png" alt=""><figcaption></figcaption></figure>{border="0" width="655"
 height="504"}
 
 # Terminologies

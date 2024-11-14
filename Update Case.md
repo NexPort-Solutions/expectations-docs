@@ -16,7 +16,7 @@ Update Case feature is active, the
 toolbar of the Premier Responder
 window.]{style="mso-bidi-font-size:13.5pt;font-weight:normal"}**
 
-<figure><img src=".gitbook/assets/Update%20Case_files/image001.png" alt=""><figcaption></figcaption></figure>{border="0" width="572"
+<figure><img src=".gitbook/assets/Update Case_files/image001.png" alt=""><figcaption></figcaption></figure>{border="0" width="572"
 height="89"}
 
 **Recent Calls Table**
@@ -35,7 +35,7 @@ calls from the archive.  The
 disabled until a selection is made in the
 list.]{style="mso-bidi-font-size:13.5pt;font-weight:normal"}**
 
-<figure><img src=".gitbook/assets/Update%20Case_files/image002.png" alt=""><figcaption></figcaption></figure>{border="0" width="572"
+<figure><img src=".gitbook/assets/Update Case_files/image002.png" alt=""><figcaption></figcaption></figure>{border="0" width="572"
 height="203"}
 
 **Updating A Case**
@@ -52,7 +52,7 @@ yes"}answers to questions can be changed as desired.[ 
 and can be seen in the [case
 report](Case%20Reports.htm){style="color: blue; text-decoration: underline; text-underline: single"}.
 
- <figure><img src=".gitbook/assets/Update%20Case_files/image003.png" alt=""><figcaption></figcaption></figure>{border="0" width="697"
+ <figure><img src=".gitbook/assets/Update Case_files/image003.png" alt=""><figcaption></figcaption></figure>{border="0" width="697"
 height="501"}
 
 **Auto-Loading Existing Case**

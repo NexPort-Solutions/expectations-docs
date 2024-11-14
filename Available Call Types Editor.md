@@ -10,7 +10,7 @@ used to add additional call types.  To open the **Call Types** editor,
 select **Edit - Call Types** menu item on the **Premier Responder
 Administrator** window. 
 
-<figure><img src=".gitbook/assets/Available%20Call%20Type%20Editor_files/image001.png" alt=""><figcaption></figcaption></figure>{border="0"
+<figure><img src=".gitbook/assets/Available Call Type Editor_files/image001.png" alt=""><figcaption></figcaption></figure>{border="0"
 width="655" height="218"}
 
 Call types appear in the list on the left side of the window.  The
@@ -20,7 +20,7 @@ list.  Tool tips can be seen when the mouse cursor is hovered over the
 buttons for a short period of time.  Call type attributes are indicated
 by the check boxes located at the bottom left of the window.
 
-<figure><img src=".gitbook/assets/Available%20Call%20Type%20Editor_files/image002.png" alt=""><figcaption></figcaption></figure>{border="0"
+<figure><img src=".gitbook/assets/Available Call Type Editor_files/image002.png" alt=""><figcaption></figcaption></figure>{border="0"
 width="655" height="504"}
 
 # Reordering Call Types List

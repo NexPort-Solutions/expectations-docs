@@ -18,7 +18,7 @@ screen](Guide%20Card%20Tabs%20Settings.htm).  The key questions are
 entered in the [Key Questions Editor](Vital%20Point%20Editor.htm) found
 in the administrator application.
 
-<figure><img src=".gitbook/assets/Vital%20Points_files/image001.png" alt=""><figcaption></figcaption></figure>{border="0" width="697"
+<figure><img src=".gitbook/assets/Vital Points_files/image001.png" alt=""><figcaption></figcaption></figure>{border="0" width="697"
 height="501"}
 
 # Notifications To CAD
@@ -41,5 +41,5 @@ patients.  Use the **Patient** drop down to specify the appropriate age
 group.  Selecting the OK button automatically enters the percentage
 value into the answer box opposite the hyperlink.
 
-<figure><img src=".gitbook/assets/Vital%20Points_files/image002.png" alt=""><figcaption></figcaption></figure>{border="0" width="544"
+<figure><img src=".gitbook/assets/Vital Points_files/image002.png" alt=""><figcaption></figcaption></figure>{border="0" width="544"
 height="400"}

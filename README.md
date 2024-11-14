@@ -42,30 +42,30 @@ Login Menu Items
 
 Trainee/Employee Menu Items
 
-* [View Evaluation](https://docs.google.com/document/d/10fcvgcmvNWnKnY9D04qr5zSIS2eHLsIQNc2Yaq5GgV8/edit#bookmark=id.2s8eyo1) (enabled when trainee/employee logs in)
+* [View Evaluation](/document/d/10fcvgcmvNWnKnY9D04qr5zSIS2eHLsIQNc2Yaq5GgV8/edit#bookmark=id.2s8eyo1) (enabled when trainee/employee logs in)
 
 Trainer/Supervisor Menu Items
 
-* [Write Evaluation](https://docs.google.com/document/d/10fcvgcmvNWnKnY9D04qr5zSIS2eHLsIQNc2Yaq5GgV8/edit#bookmark=id.lnxbz9) (enabled when trainer/supervisor logs in)
-* [Print Worksheet](https://docs.google.com/document/d/10fcvgcmvNWnKnY9D04qr5zSIS2eHLsIQNc2Yaq5GgV8/edit#bookmark=id.35nkun2) (enabled when trainer/supervisor logs in)
-* [Review Evaluation](https://docs.google.com/document/d/10fcvgcmvNWnKnY9D04qr5zSIS2eHLsIQNc2Yaq5GgV8/edit#bookmark=id.1ksv4uv) (enabled when trainer/supervisor logs in)
-* [View Evaluation](https://docs.google.com/document/d/10fcvgcmvNWnKnY9D04qr5zSIS2eHLsIQNc2Yaq5GgV8/edit#bookmark=id.44sinio) (enabled when trainer/supervisor logs in)
-* [Reports](https://docs.google.com/document/d/10fcvgcmvNWnKnY9D04qr5zSIS2eHLsIQNc2Yaq5GgV8/edit#bookmark=id.2jxsxqh) (enabled when trainer/supervisor logs in)
-* [View/Print Criteria Set](https://docs.google.com/document/d/10fcvgcmvNWnKnY9D04qr5zSIS2eHLsIQNc2Yaq5GgV8/edit#bookmark=id.3rdcrjn) (enabled when trainer/supervisor logs in)
+* [Write Evaluation](/document/d/10fcvgcmvNWnKnY9D04qr5zSIS2eHLsIQNc2Yaq5GgV8/edit#bookmark=id.lnxbz9) (enabled when trainer/supervisor logs in)
+* [Print Worksheet](/document/d/10fcvgcmvNWnKnY9D04qr5zSIS2eHLsIQNc2Yaq5GgV8/edit#bookmark=id.35nkun2) (enabled when trainer/supervisor logs in)
+* [Review Evaluation](/document/d/10fcvgcmvNWnKnY9D04qr5zSIS2eHLsIQNc2Yaq5GgV8/edit#bookmark=id.1ksv4uv) (enabled when trainer/supervisor logs in)
+* [View Evaluation](/document/d/10fcvgcmvNWnKnY9D04qr5zSIS2eHLsIQNc2Yaq5GgV8/edit#bookmark=id.44sinio) (enabled when trainer/supervisor logs in)
+* [Reports](/document/d/10fcvgcmvNWnKnY9D04qr5zSIS2eHLsIQNc2Yaq5GgV8/edit#bookmark=id.2jxsxqh) (enabled when trainer/supervisor logs in)
+* [View/Print Criteria Set](/document/d/10fcvgcmvNWnKnY9D04qr5zSIS2eHLsIQNc2Yaq5GgV8/edit#bookmark=id.3rdcrjn) (enabled when trainer/supervisor logs in)
 
 Administrator Menu Items
 
-* [Create Trainer/Supervisor Signature Key](https://docs.google.com/document/d/10fcvgcmvNWnKnY9D04qr5zSIS2eHLsIQNc2Yaq5GgV8/edit#bookmark=id.19c6y18) (enabled when logged in as level 3 trainer/supervisor on central system)
-* [Create Trainee/Employee Signature Key](https://docs.google.com/document/d/10fcvgcmvNWnKnY9D04qr5zSIS2eHLsIQNc2Yaq5GgV8/edit#bookmark=id.3tbugp1) (enabled when logged in as level 3 trainer/supervisor on central system)
-* [Add/Modify/Delete A Trainer/Supervisor](https://docs.google.com/document/d/10fcvgcmvNWnKnY9D04qr5zSIS2eHLsIQNc2Yaq5GgV8/edit#bookmark=id.19c6y18) (enabled when logged in as level 3 trainer/supervisor on central system)
-* [Add/Modify/Delete A Trainee/Employee](https://docs.google.com/document/d/10fcvgcmvNWnKnY9D04qr5zSIS2eHLsIQNc2Yaq5GgV8/edit#bookmark=id.3tbugp1) (enabled when logged in as level 3 trainer/supervisor on central system)
-* [Add/Modify/Delete A Criteria](https://docs.google.com/document/d/10fcvgcmvNWnKnY9D04qr5zSIS2eHLsIQNc2Yaq5GgV8/edit#bookmark=id.28h4qwu) (enabled when logged in as level 3 trainer/supervisor on central system)
-* [Add/Modify/Delete A Criteria Set](https://docs.google.com/document/d/10fcvgcmvNWnKnY9D04qr5zSIS2eHLsIQNc2Yaq5GgV8/edit#bookmark=id.nmf14n) (enabled when logged in as level 3 trainer/supervisor on central system)
-* [System Properties](https://docs.google.com/document/d/10fcvgcmvNWnKnY9D04qr5zSIS2eHLsIQNc2Yaq5GgV8/edit#bookmark=id.37m2jsg) (enabled when logged in as level 3 trainer/supervisor)
-* [Backup/Restore](https://docs.google.com/document/d/10fcvgcmvNWnKnY9D04qr5zSIS2eHLsIQNc2Yaq5GgV8/edit#bookmark=id.1mrcu09) (enabled when logged in as level 3 trainer/supervisor)
-* [Global Settings](https://docs.google.com/document/d/10fcvgcmvNWnKnY9D04qr5zSIS2eHLsIQNc2Yaq5GgV8/edit#bookmark=id.46r0co2) (enabled when logged in as level 3 trainer/supervisor)
-* [Download](https://docs.google.com/document/d/10fcvgcmvNWnKnY9D04qr5zSIS2eHLsIQNc2Yaq5GgV8/edit#bookmark=id.z337ya) (enabled when trainer/supervisor logs in)
-* [Upload](https://docs.google.com/document/d/10fcvgcmvNWnKnY9D04qr5zSIS2eHLsIQNc2Yaq5GgV8/edit#bookmark=id.3j2qqm3) (enabled when trainer/supervisor logs in)
+* [Create Trainer/Supervisor Signature Key](/document/d/10fcvgcmvNWnKnY9D04qr5zSIS2eHLsIQNc2Yaq5GgV8/edit#bookmark=id.19c6y18) (enabled when logged in as level 3 trainer/supervisor on central system)
+* [Create Trainee/Employee Signature Key](/document/d/10fcvgcmvNWnKnY9D04qr5zSIS2eHLsIQNc2Yaq5GgV8/edit#bookmark=id.3tbugp1) (enabled when logged in as level 3 trainer/supervisor on central system)
+* [Add/Modify/Delete A Trainer/Supervisor](/document/d/10fcvgcmvNWnKnY9D04qr5zSIS2eHLsIQNc2Yaq5GgV8/edit#bookmark=id.19c6y18) (enabled when logged in as level 3 trainer/supervisor on central system)
+* [Add/Modify/Delete A Trainee/Employee](/document/d/10fcvgcmvNWnKnY9D04qr5zSIS2eHLsIQNc2Yaq5GgV8/edit#bookmark=id.3tbugp1) (enabled when logged in as level 3 trainer/supervisor on central system)
+* [Add/Modify/Delete A Criteria](/document/d/10fcvgcmvNWnKnY9D04qr5zSIS2eHLsIQNc2Yaq5GgV8/edit#bookmark=id.28h4qwu) (enabled when logged in as level 3 trainer/supervisor on central system)
+* [Add/Modify/Delete A Criteria Set](/document/d/10fcvgcmvNWnKnY9D04qr5zSIS2eHLsIQNc2Yaq5GgV8/edit#bookmark=id.nmf14n) (enabled when logged in as level 3 trainer/supervisor on central system)
+* [System Properties](/document/d/10fcvgcmvNWnKnY9D04qr5zSIS2eHLsIQNc2Yaq5GgV8/edit#bookmark=id.37m2jsg) (enabled when logged in as level 3 trainer/supervisor)
+* [Backup/Restore](/document/d/10fcvgcmvNWnKnY9D04qr5zSIS2eHLsIQNc2Yaq5GgV8/edit#bookmark=id.1mrcu09) (enabled when logged in as level 3 trainer/supervisor)
+* [Global Settings](/document/d/10fcvgcmvNWnKnY9D04qr5zSIS2eHLsIQNc2Yaq5GgV8/edit#bookmark=id.46r0co2) (enabled when logged in as level 3 trainer/supervisor)
+* [Download](/document/d/10fcvgcmvNWnKnY9D04qr5zSIS2eHLsIQNc2Yaq5GgV8/edit#bookmark=id.z337ya) (enabled when trainer/supervisor logs in)
+* [Upload](/document/d/10fcvgcmvNWnKnY9D04qr5zSIS2eHLsIQNc2Yaq5GgV8/edit#bookmark=id.3j2qqm3) (enabled when trainer/supervisor logs in)
 
 Window Menu Items
 
@@ -88,7 +88,7 @@ In order to write, view or print evaluations a user first needs to log in.  This
 
 ![](<.gitbook/assets/2 (3).jpeg>)
 
-The Login form will automatically appear when Expectations first starts up, when a database connection is made, or when a user logs out.  Expectations installs with a single Trainer/Supervisor account, the Login Name being "Admin" and the Password "password".  To log in, enter the Login Name, Password and User Type in the appropriate boxes and select the OK button.  User information appears on the status bar at the bottom of the main form and the menus are reconfigured to accommodate the user's [security level](https://docs.google.com/document/d/10fcvgcmvNWnKnY9D04qr5zSIS2eHLsIQNc2Yaq5GgV8/edit#bookmark=id.2lwamvv).  The Cancel button will close the Login form without logging in.
+The Login form will automatically appear when Expectations first starts up, when a database connection is made, or when a user logs out.  Expectations installs with a single Trainer/Supervisor account, the Login Name being "Admin" and the Password "password".  To log in, enter the Login Name, Password and User Type in the appropriate boxes and select the OK button.  User information appears on the status bar at the bottom of the main form and the menus are reconfigured to accommodate the user's [security level](/document/d/10fcvgcmvNWnKnY9D04qr5zSIS2eHLsIQNc2Yaq5GgV8/edit#bookmark=id.2lwamvv).  The Cancel button will close the Login form without logging in.
 
 ![](<.gitbook/assets/3 (3).png>)
 
@@ -164,19 +164,19 @@ Finally, select the desired database from the list and then click on the OK butt
 
 Migration to SQL Server
 
-At launch or when switching the choice in the Select Database dialog, you can choose to automatically migrate older MS Access databases and update them using the [Conversion Options](https://docs.google.com/document/d/10fcvgcmvNWnKnY9D04qr5zSIS2eHLsIQNc2Yaq5GgV8/edit#bookmark=id.111kx3o) dialog. If your database is already of the current version, or if you wish to manually perform the switch over to using a SQL Server database, please use the following procedure:
+At launch or when switching the choice in the Select Database dialog, you can choose to automatically migrate older MS Access databases and update them using the [Conversion Options](/document/d/10fcvgcmvNWnKnY9D04qr5zSIS2eHLsIQNc2Yaq5GgV8/edit#bookmark=id.111kx3o) dialog. If your database is already of the current version, or if you wish to manually perform the switch over to using a SQL Server database, please use the following procedure:
 
 1. A server must be available on the network.  If not, download and install either [SQL Server 2005 Express](http://www.microsoft.com/sqlserver/2005/en/us/express.aspx) or [SQL Server 2008 Express](http://www.microsoft.com/sqlserver/2008/en/us/express.aspx).  These are limited versions of SQL Server.  Installation and configuration instructions are available on the download site.
-2. Connect to the [central](https://docs.google.com/document/d/10fcvgcmvNWnKnY9D04qr5zSIS2eHLsIQNc2Yaq5GgV8/edit#bookmark=id.37m2jsg) Access database file as described above.
-3. [Download](https://docs.google.com/document/d/10fcvgcmvNWnKnY9D04qr5zSIS2eHLsIQNc2Yaq5GgV8/edit#bookmark=id.z337ya) the [departments, shifts, and phases](https://docs.google.com/document/d/10fcvgcmvNWnKnY9D04qr5zSIS2eHLsIQNc2Yaq5GgV8/edit#bookmark=id.3l18frh) that are to be relocated to the new database.
-4. [Download](https://docs.google.com/document/d/10fcvgcmvNWnKnY9D04qr5zSIS2eHLsIQNc2Yaq5GgV8/edit#bookmark=id.z337ya) the [trainers/supervisors](https://docs.google.com/document/d/10fcvgcmvNWnKnY9D04qr5zSIS2eHLsIQNc2Yaq5GgV8/edit#bookmark=id.206ipza), [trainees/employees](https://docs.google.com/document/d/10fcvgcmvNWnKnY9D04qr5zSIS2eHLsIQNc2Yaq5GgV8/edit#bookmark=id.4k668n3), [criteria sets](https://docs.google.com/document/d/10fcvgcmvNWnKnY9D04qr5zSIS2eHLsIQNc2Yaq5GgV8/edit#bookmark=id.2zbgiuw), and [evaluations](https://docs.google.com/document/d/10fcvgcmvNWnKnY9D04qr5zSIS2eHLsIQNc2Yaq5GgV8/edit#bookmark=id.1egqt2p) that are to be relocated to the new database.
+2. Connect to the [central](/document/d/10fcvgcmvNWnKnY9D04qr5zSIS2eHLsIQNc2Yaq5GgV8/edit#bookmark=id.37m2jsg) Access database file as described above.
+3. [Download](/document/d/10fcvgcmvNWnKnY9D04qr5zSIS2eHLsIQNc2Yaq5GgV8/edit#bookmark=id.z337ya) the [departments, shifts, and phases](/document/d/10fcvgcmvNWnKnY9D04qr5zSIS2eHLsIQNc2Yaq5GgV8/edit#bookmark=id.3l18frh) that are to be relocated to the new database.
+4. [Download](/document/d/10fcvgcmvNWnKnY9D04qr5zSIS2eHLsIQNc2Yaq5GgV8/edit#bookmark=id.z337ya) the [trainers/supervisors](/document/d/10fcvgcmvNWnKnY9D04qr5zSIS2eHLsIQNc2Yaq5GgV8/edit#bookmark=id.206ipza), [trainees/employees](/document/d/10fcvgcmvNWnKnY9D04qr5zSIS2eHLsIQNc2Yaq5GgV8/edit#bookmark=id.4k668n3), [criteria sets](/document/d/10fcvgcmvNWnKnY9D04qr5zSIS2eHLsIQNc2Yaq5GgV8/edit#bookmark=id.2zbgiuw), and [evaluations](/document/d/10fcvgcmvNWnKnY9D04qr5zSIS2eHLsIQNc2Yaq5GgV8/edit#bookmark=id.1egqt2p) that are to be relocated to the new database.
 5. Create and connect to the SQL Server database as described above.
 6. With Expectations connected to the SQL Server database, login by entering Admin and password respectively for Login Name and Password.
-7. [Upload](https://docs.google.com/document/d/10fcvgcmvNWnKnY9D04qr5zSIS2eHLsIQNc2Yaq5GgV8/edit#bookmark=id.3j2qqm3) the previously downloaded departments, shifts, and phases.
-8. Assign a department to the Admin user in the [Modify Trainer/Supervisor](https://docs.google.com/document/d/10fcvgcmvNWnKnY9D04qr5zSIS2eHLsIQNc2Yaq5GgV8/edit#bookmark=id.3ygebqi) window.
-9. [Upload](https://docs.google.com/document/d/10fcvgcmvNWnKnY9D04qr5zSIS2eHLsIQNc2Yaq5GgV8/edit#bookmark=id.3j2qqm3) the previously downloaded trainers/supervisors, trainees/employees, criteria sets, and evaluations.
+7. [Upload](/document/d/10fcvgcmvNWnKnY9D04qr5zSIS2eHLsIQNc2Yaq5GgV8/edit#bookmark=id.3j2qqm3) the previously downloaded departments, shifts, and phases.
+8. Assign a department to the Admin user in the [Modify Trainer/Supervisor](/document/d/10fcvgcmvNWnKnY9D04qr5zSIS2eHLsIQNc2Yaq5GgV8/edit#bookmark=id.3ygebqi) window.
+9. [Upload](/document/d/10fcvgcmvNWnKnY9D04qr5zSIS2eHLsIQNc2Yaq5GgV8/edit#bookmark=id.3j2qqm3) the previously downloaded trainers/supervisors, trainees/employees, criteria sets, and evaluations.
 
 > Note: Relocating evaluations to a SQL Server database is optional.  While they are not required for authoring new evaluations, they may be wanted for historical reference.
 
-> NOTE: At this time during the update process, Training & Development application records may only be migrated automatically (rather than manually) from an MS Access database to SQL Server.  For those older MS Access databases which do not meet the criteria specified in the [Conversion Options](https://docs.google.com/document/d/10fcvgcmvNWnKnY9D04qr5zSIS2eHLsIQNc2Yaq5GgV8/edit#bookmark=id.111kx3o) help topic for updating 'in-place', please consider converting your database to SQL Server automatically.  If migrating your older MS Access database to SQL Server is not feasible at this time and the "Keep MS Access" button is not enabled, please contact Smart Horizons for assistance in separating out the database into multiple MS Access databases (each of which may be updated separately by the software, as normal).
+> NOTE: At this time during the update process, Training & Development application records may only be migrated automatically (rather than manually) from an MS Access database to SQL Server.  For those older MS Access databases which do not meet the criteria specified in the [Conversion Options](/document/d/10fcvgcmvNWnKnY9D04qr5zSIS2eHLsIQNc2Yaq5GgV8/edit#bookmark=id.111kx3o) help topic for updating 'in-place', please consider converting your database to SQL Server automatically.  If migrating your older MS Access database to SQL Server is not feasible at this time and the "Keep MS Access" button is not enabled, please contact Smart Horizons for assistance in separating out the database into multiple MS Access databases (each of which may be updated separately by the software, as normal).
 ---

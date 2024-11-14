@@ -15,11 +15,11 @@
 
 The View/Print Criteria Set form allows existing criteria sets to be reviewed and printed. To bring up the form, select the Trainer/Supervisor - View/Print Criteria Set menu item on the [main form](expectations-trainer-tools-and-utilities.md#broke-3znysh7.md).
 
-![](<.gitbook/assets/0 (1).jpeg>)
+<figure><img src=".gitbook/assets/<.gitbook/assets/0 (1" alt=""><figcaption></figcaption></figure>.jpeg>)
 
 The View/Print Criteria Set Screen is framed into three areas which are labeled Select, View and Print.
 
-![](.gitbook/assets/1.jpeg)
+<figure><img src=".gitbook/assets/.gitbook/assets/1.jpeg" alt=""><figcaption></figcaption></figure>
 
 Inside the Select frame are controls used to select the criteria set and criteria category to be viewed or printed. The Criteria Set combo box is used to select the desired criteria set from a list of all the available criteria sets. Once a criteria set is selected the Criteria Category combo box is loaded with all of the criteria contained in the set from which one can be selected.
 
@@ -47,11 +47,11 @@ The Trainer/Supervisor Form provides utilities for writing new evaluations, prin
 
 The Trainer/Supervisor form Write Evaluation tab is accessed via the Trainer/Supervisor - Write Evaluation menu item on the [main form](expectations-trainer-tools-and-utilities.md#broke-3znysh7.md).
 
-![](<.gitbook/assets/2 (1).jpeg>)
+<figure><img src=".gitbook/assets/<.gitbook/assets/2 (1" alt=""><figcaption></figcaption></figure>.jpeg>)
 
 The Write Evaluation tab displays a list of trainees/employees for which the current user can write an evaluation. This may include all trainees/employees if the current user is assigned to ['Department ALL'](expectations-trainer-tools-and-utilities.md#broke-37m2jsg.md). An asterisk (\*) denotes that one or more incomplete evaluations exist for the trainee. The evaluation criteria set is shown in the drop down selector below the Trainee/Employee list.
 
-![](<.gitbook/assets/3 (1).png>)
+<figure><img src=".gitbook/assets/<.gitbook/assets/3 (1" alt=""><figcaption></figcaption></figure>.png>)
 
 To write an evaluation, first select a trainee/employee. This done, the default criteria set is automatically entered, any incomplete evaluations are displayed, and the Write Evaluation button is enabled. The criteria set can be changed at this time, if desired, by making another selection from the drop down list. Clicking on the Write Evaluation button without selecting an evaluation opens the [Evaluation Writer](expectations-trainer-tools-and-utilities.md#broke-sqyw64.md) with a new evaluation. To edit an existing evaluation, first make a selection from the Incomplete Evaluations list. The list entries are sequentially numbered and are sorted by the evaluation end date. Once an evaluation is selected, the criteria set is automatically entered and cannot be changed.
 
@@ -65,15 +65,15 @@ Clicking the Close button will close this window.
 
 The Trainer/Supervisor form Print Worksheet tab is accessed via the Trainer/Supervisor - Print Worksheet menu item on the [main form](expectations-trainer-tools-and-utilities.md#broke-3znysh7.md).
 
-![](<.gitbook/assets/4 (1).jpeg>)
+<figure><img src=".gitbook/assets/<.gitbook/assets/4 (1" alt=""><figcaption></figcaption></figure>.jpeg>)
 
 To print a worksheet, first make a selection from the list of trainees/employees available to the user. This list may include all trainees/employees if the current user is assigned to ['Department ALL'](expectations-trainer-tools-and-utilities.md#broke-37m2jsg.md). Once selected, the default criteria set for the trainee/employee is entered into the Criteria Set box. This is the criteria set that will be used to create the worksheet. To change the criteria set, make another selection from the drop down list. The Blank Comment Lines counter varies the number of blank lines appearing for each comment. Selecting the Print Worksheet button loads the worksheet into the Report Preview window. Clicking the Close button closes the Trainer/Supervisor window.
 
-![](.gitbook/assets/5.png)
+<figure><img src=".gitbook/assets/.gitbook/assets/5.png" alt=""><figcaption></figcaption></figure>
 
 Use the Report Preview window to check out the worksheet and make adjustments before printing. Selecting the Print Report button, having an image of a printer on the face, opens a Print dialog window from which the printer is selected and the document finally printed.
 
-![](.gitbook/assets/6.png)
+<figure><img src=".gitbook/assets/.gitbook/assets/6.png" alt=""><figcaption></figcaption></figure>
 
 ##
 
@@ -83,9 +83,9 @@ Use the Report Preview window to check out the worksheet and make adjustments be
 
 The Trainer/Supervisor form Review Evaluation tab is accessed via the Trainer/Supervisor - Review Evaluation menu item on the [main form](expectations-trainer-tools-and-utilities.md#broke-3znysh7.md).
 
-![](expectations-trainer-tools-and-utilities.md#broke-2dlolyb.md), the [Trainee/Employee Evaluation tab](expectations-trainer-tools-and-utilities.md#broke-3cqmetx.md), and the Reviewer Comments tab. Operation of the first two tabs is the same as on the [Evaluation Viewer](expectations-trainer-tools-and-utilities.md#broke-2dlolyb.md). They are used by the reviewer to look over the evaluation. After the evaluation has been checked, any comments the reviewer might have are entered on the Reviewer Comments tab. It includes the "Comments" (read-only) and "New" (editable) textboxes, as well as options for approving and disapproving the evaluation. Use the Spelling button to spell check the comments before submitting. Select the Submit button after the comments have been entered and the approval state has been set:
+<figure><img src=".gitbook/assets/expectations-trainer-tools-and-utilities.md#broke-2dlolyb.md" alt=""><figcaption></figcaption></figure>, the [Trainee/Employee Evaluation tab](expectations-trainer-tools-and-utilities.md#broke-3cqmetx.md), and the Reviewer Comments tab. Operation of the first two tabs is the same as on the [Evaluation Viewer](expectations-trainer-tools-and-utilities.md#broke-2dlolyb.md). They are used by the reviewer to look over the evaluation. After the evaluation has been checked, any comments the reviewer might have are entered on the Reviewer Comments tab. It includes the "Comments" (read-only) and "New" (editable) textboxes, as well as options for approving and disapproving the evaluation. Use the Spelling button to spell check the comments before submitting. Select the Submit button after the comments have been entered and the approval state has been set:
 
-![](expectations-trainer-tools-and-utilities.md#broke-1rvwp1q.md) when it is sent back for correcting, the Evaluation Viewer once approved by all reviewers, and in the evaluation report preview and print-off when configured to do so from the [Reviewer Comments](expectations-trainer-tools-and-utilities.md#broke-4bvk7pj.md) sub-tab.
+<figure><img src=".gitbook/assets/expectations-trainer-tools-and-utilities.md#broke-1rvwp1q.md" alt=""><figcaption></figcaption></figure> when it is sent back for correcting, the Evaluation Viewer once approved by all reviewers, and in the evaluation report preview and print-off when configured to do so from the [Reviewer Comments](expectations-trainer-tools-and-utilities.md#broke-4bvk7pj.md) sub-tab.
 
 ## NOTE: Until all reviewers have approved the evaluation, or unless turned off in the [Unapproved Evaluations](expectations-trainer-tools-and-utilities.md#broke-2r0uhxc.md) configuration sub-tab of the Global Settings tab, DRAFT will appear across each page of the report when printing or previewing.
 
@@ -103,7 +103,7 @@ The Signatures tab will appear in the Evaluation Reviewer to allow an evaluation
 
 The Trainer/Supervisor form View Evaluation tab is accessed via the Trainer/Supervisor - View Evaluation menu item on the [main form](expectations-trainer-tools-and-utilities.md#broke-3znysh7.md).
 
-![](expectations-trainer-tools-and-utilities.md#broke-2dlolyb.md) will appear with the selected evaluation. Clicking the Close button will close this window.
+<figure><img src=".gitbook/assets/expectations-trainer-tools-and-utilities.md#broke-2dlolyb.md" alt=""><figcaption></figcaption></figure> will appear with the selected evaluation. Clicking the Close button will close this window.
 
 ## NOTE: If the "Prevent unapproved evaluations from appearing in the View Evaluation tab until fully-reviewed" checkbox is checked, all evaluations written by trainers/supervisors who have one or more assigned reviewers must be fully reviewed in order for those evaluations to appear in the View Evaluation tab. The "Prevent..." checkbox may be found in the [Unapproved Evaluations](expectations-trainer-tools-and-utilities.md#broke-2r0uhxc.md) sub-tab of the [Global Settings tab](expectations-trainer-tools-and-utilities.md#broke-46r0co2.md).
 
@@ -115,13 +115,13 @@ The Trainer/Supervisor form View Evaluation tab is accessed via the Trainer/Supe
 
 The Trainer/Supervisor form Reports tab is accessed via the Trainer/Supervisor - Reports menu item on the [main form](expectations-trainer-tools-and-utilities.md#broke-3znysh7.md).
 
-![](expectations-trainer-tools-and-utilities.md#broke-3q5sasy.md)
+<figure><img src=".gitbook/assets/expectations-trainer-tools-and-utilities.md#broke-3q5sasy.md" alt=""><figcaption></figcaption></figure>
 * [Trainee/Employee Roster](expectations-trainer-tools-and-utilities.md#broke-25b2l0r.md)
 * [Trainer/Supervisor Reports](expectations-trainer-tools-and-utilities.md#broke-kgcv8k.md)
 * [Trainee/Employee Reports](expectations-trainer-tools-and-utilities.md#broke-34g0dwd.md)
 * [Training Time Report](expectations-trainer-tools-and-utilities.md#broke-1jlao46.md)
 
-![](<.gitbook/assets/14 (1).png>)
+<figure><img src=".gitbook/assets/<.gitbook/assets/14 (1" alt=""><figcaption></figcaption></figure>.png>)
 
 Select the type of report to be viewed and then click the View Report button. Clicking the Close button will close this screen.
 
@@ -131,7 +131,7 @@ Select the type of report to be viewed and then click the View Report button. Cl
 
 The Download form allows information entered at one workstation to be saved to an external file for the purpose of transferring to another workstation. It provides users that do not have network access the ability to maintain a [centralized database](expectations-trainer-tools-and-utilities.md#broke-3dy6vkm.md). To bring up the Download form select the Administrator - Download menu item on the [main form](expectations-trainer-tools-and-utilities.md#broke-3znysh7.md).
 
-![](expectations-trainer-tools-and-utilities.md#broke-37m2jsg.md) and the user's [security level](expectations-trainer-tools-and-utilities.md#broke-3ygebqi.md). The tabs are labeled as follows:
+<figure><img src=".gitbook/assets/expectations-trainer-tools-and-utilities.md#broke-37m2jsg.md" alt=""><figcaption></figcaption></figure> and the user's [security level](expectations-trainer-tools-and-utilities.md#broke-3ygebqi.md). The tabs are labeled as follows:
 
 * [Trainers/Supervisors](expectations-trainer-tools-and-utilities.md#broke-206ipza.md)
 * [Trainees/Employees](expectations-trainer-tools-and-utilities.md#broke-4k668n3.md)
@@ -150,17 +150,17 @@ The Download form allows information entered at one workstation to be saved to a
 
 The Upload form allows information entered and downloaded at one workstation to be transferred to another. It provides users that do not have network access the ability to maintain a [centralized database](expectations-trainer-tools-and-utilities.md#broke-3dy6vkm.md). To bring up the Upload form select the Administrator - Upload menu item on the [main form](expectations-trainer-tools-and-utilities.md#broke-3znysh7.md).
 
-![](expectations-trainer-tools-and-utilities.md#broke-37m2jsg.md) and by the user's [security level](expectations-trainer-tools-and-utilities.md#broke-3ygebqi.md). Security levels 1 and 2 are only allowed to upload evaluations. On a stand-alone system only trainers/supervisors, trainees/employees and criteria sets can be uploaded.
+<figure><img src=".gitbook/assets/expectations-trainer-tools-and-utilities.md#broke-37m2jsg.md" alt=""><figcaption></figcaption></figure> and by the user's [security level](expectations-trainer-tools-and-utilities.md#broke-3ygebqi.md). Security levels 1 and 2 are only allowed to upload evaluations. On a stand-alone system only trainers/supervisors, trainees/employees and criteria sets can be uploaded.
 
-![](<.gitbook/assets/17 (1).png>)
+<figure><img src=".gitbook/assets/<.gitbook/assets/17 (1" alt=""><figcaption></figcaption></figure>.png>)
 
 To perform an upload select the type of upload to perform. An Open window will appear. Use the Open window to locate and select the file containing the data to be uploaded. Click on the Open button to start the upload. An incorrect file type selection will result in an error dialog. To abort the upload select Cancel.
 
-![](<.gitbook/assets/18 (1).jpeg>)
+<figure><img src=".gitbook/assets/<.gitbook/assets/18 (1" alt=""><figcaption></figcaption></figure>.jpeg>)
 
 During the upload a progress bar appears at the bottom of the window to indicate the status. Notification appears on the screen when when the upload is completed. Attempting to close the form while an upload is in progress will bring up a dialog box, offering the operator an opportunity to abort.
 
-![](.gitbook/assets/19.png)
+<figure><img src=".gitbook/assets/.gitbook/assets/19.png" alt=""><figcaption></figcaption></figure>
 
 > NOTE: Only those downloaded Zip files from a source database which is configured by the same Expectations version as the destination database are supported in the upload process. The source and destination databases may be either of the two database types in any combination of MS Access or SQL Server.
 

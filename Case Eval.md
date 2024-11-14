@@ -14,7 +14,7 @@ on the [Case Report tab](Case%20Reports.htm).  The information in the
 evaluation changes are automatically saved and are reloaded upon
 subsequently selecting the case for grading.
 
-![](Case%20Eval_files/image001.png)
+<figure><img src=".gitbook/assets/Case%20Eval_files/image001.png" alt=""><figcaption></figcaption></figure>
 
 # Creating Grade Sheets
 
@@ -23,7 +23,7 @@ edit grade sheets.  To create a grade sheet, enter a unique description
 in the toolbar combo box then select the **Add** button.  An empty grade
 sheet is created and automatically selected.
 
-![](Case%20Eval_files/image002.png)
+<figure><img src=".gitbook/assets/Case%20Eval_files/image002.png" alt=""><figcaption></figcaption></figure>
 
 The grade sheet selected in the combo drop down list appears below the
 **Case Evaluation** header.  Grade sheets are composed of the following
@@ -40,7 +40,7 @@ the **Edit** button or the grade sheet removed with the **Delete**
 button.  When a grade sheet is deleted, all related section and
 requirement nodes are also deleted.
 
-![](Case%20Eval_files/image003.png)
+<figure><img src=".gitbook/assets/Case%20Eval_files/image003.png" alt=""><figcaption></figcaption></figure>
 
 # Adding Sections
 
@@ -52,7 +52,7 @@ the selected section or the arrow buttons to change the order.  Note
 that deleting a section removes attached requirements.  Also note when
 moving a section, attached requirements are also moved.
 
-![](Case%20Eval_files/image004.png)
+<figure><img src=".gitbook/assets/Case%20Eval_files/image004.png" alt=""><figcaption></figcaption></figure>
 
 # Adding Requirements
 
@@ -65,7 +65,7 @@ values are assigned with **Show Check Box** checked and making an entry
 in the **Value** field.  A deduction is indicated by a negative value. 
 To hide the check box, uncheck **Show Check Box**.
 
-![](Case%20Eval_files/image005.png)
+<figure><img src=".gitbook/assets/Case%20Eval_files/image005.png" alt=""><figcaption></figcaption></figure>
 
 # Grading Calls
 
@@ -77,7 +77,7 @@ point totals, select the grade sheet node or one of the section nodes. 
 Comments can be entered for any grade sheet, section, or requirement
 node by selecting a node and making an entry in the **Comments** field.
 
-![](Case%20Eval_files/image006.png)
+<figure><img src=".gitbook/assets/Case%20Eval_files/image006.png" alt=""><figcaption></figcaption></figure>
 
 # Saving and Printing Graded Calls
 
@@ -87,4 +87,4 @@ with the final grade.  Note that, for graded calls, editing and grading
 functionality is disabled.  Selecting the print button sends the report
 to the default printer.
 
-![](Case%20Eval_files/image007.png)
+<figure><img src=".gitbook/assets/Case%20Eval_files/image007.png" alt=""><figcaption></figcaption></figure>

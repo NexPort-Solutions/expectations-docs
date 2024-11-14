@@ -12,7 +12,7 @@ Recordings](Call%20Recordings.htm) utilities are accessed.  These open
 on tabs within the main window.  The currently logged in user appears on
 the left panel of the status bar.
 
-![](Supervisor_files/image001.png)
+<figure><img src=".gitbook/assets/Supervisor_files/image001.png" alt=""><figcaption></figcaption></figure>
 
 # Premier Responder Supervisor Functions
 

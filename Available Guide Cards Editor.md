@@ -12,7 +12,7 @@ one of the assigned codes.  To open the **Available Guide Cards**
 editor, log into **Premier Responder Administrator** and select the
 **Edit** / **Guide Cards.**
 
-![](Available%20Guide%20Cards%20Editor_files/image001.png){border="0"
+<figure><img src=".gitbook/assets/Available%20Guide%20Cards%20Editor_files/image001.png" alt=""><figcaption></figcaption></figure>{border="0"
 width="655" height="215"}
 
 The **Call Type** drop down on the **Available Guide Cards** window is
@@ -26,7 +26,7 @@ entries.  Tool tips are available to identify the graphically labeled
 buttons.  By holding the mouse pointer over the button, a text
 description will appear. 
 
-![](Available%20Guide%20Cards%20Editor_files/image002.png){border="0"
+<figure><img src=".gitbook/assets/Available%20Guide%20Cards%20Editor_files/image002.png" alt=""><figcaption></figcaption></figure>{border="0"
 width="655" height="504"}
 
 # Managing Guide Cards
@@ -54,7 +54,7 @@ To add a guide card:
     background color.  When created, the **Section** entry defaults to
     white.
 
-![](Available%20Guide%20Cards%20Editor_files/image003.png){border="0"
+<figure><img src=".gitbook/assets/Available%20Guide%20Cards%20Editor_files/image003.png" alt=""><figcaption></figcaption></figure>{border="0"
 width="655" height="504"}
 
 To delete a guide card:
@@ -69,7 +69,7 @@ To delete a guide card:
     dialog window.
 -   The complaint is removed from **Guide Cards** list.
 
-![](Available%20Guide%20Cards%20Editor_files/image004.png){border="0"
+<figure><img src=".gitbook/assets/Available%20Guide%20Cards%20Editor_files/image004.png" alt=""><figcaption></figcaption></figure>{border="0"
 width="312" height="160"}
 
 To rename a guide card:
@@ -122,7 +122,7 @@ To add a complaint code:
 -   Enter the code in the **Code** text box at the bottom of the window.
 -   The code is added to the **Complaint Codes** list.
 
-![](Available%20Guide%20Cards%20Editor_files/image005.png){border="0"
+<figure><img src=".gitbook/assets/Available%20Guide%20Cards%20Editor_files/image005.png" alt=""><figcaption></figcaption></figure>{border="0"
 width="655" height="504"}
 
 To delete a complaint code:

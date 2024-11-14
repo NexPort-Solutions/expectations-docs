@@ -19,7 +19,7 @@ buttons.  Changes are made on the **Question** and **List Items** edit
 screens.  Select the **Close** (X) button to close the **Guide Cards**
 tab.
 
-![](Vital%20Point%20Editor_files/image001.png){border="0" width="655"
+<figure><img src=".gitbook/assets/Vital%20Point%20Editor_files/image001.png" alt=""><figcaption></figcaption></figure>{border="0" width="655"
 height="504"}
 
 # Question Edit Screen
@@ -88,7 +88,7 @@ used as follows:
 > 6.  **Group:** activates the question being edited from the activation
 >     of another question.
 
-![](Vital%20Point%20Editor_files/image002.png){border="0" width="655"
+<figure><img src=".gitbook/assets/Vital%20Point%20Editor_files/image002.png" alt=""><figcaption></figcaption></figure>{border="0" width="655"
 height="504"}
 
 # List Items Edit **Screen**
@@ -139,5 +139,5 @@ appears checked.  Selecting **None** in the menu clears the link
 action.  Note that list item link actions override question link
 actions.
 
-![](Vital%20Point%20Editor_files/image003.png){border="0" width="474"
+<figure><img src=".gitbook/assets/Vital%20Point%20Editor_files/image003.png" alt=""><figcaption></figcaption></figure>{border="0" width="474"
 height="444"}

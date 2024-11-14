@@ -11,7 +11,7 @@ out notifications via email once an alert is triggered.  To start, login
 to Premier Responder Supervisor and click the **Tools-Email Alerts**
 menu item.
 
-![](Email%20Alert/image001.png)
+<figure><img src=".gitbook/assets/Email%20Alert/image001.png" alt=""><figcaption></figcaption></figure>
 
 # Main Form Description
 
@@ -25,7 +25,7 @@ menu item.
 -   The **Status**, **Emails Sent**, and **Errors Logged** status bar
     panels.
 
-![](Email%20Alert/image002.png)
+<figure><img src=".gitbook/assets/Email%20Alert/image002.png" alt=""><figcaption></figcaption></figure>
 
 # Getting Started
 
@@ -49,7 +49,7 @@ and alerts from being modified.  To access the feature select the
 **Edit/Lock** menu item on the main form.  This brings up the **Lock
 Alert Editor** dialog window.
 
-![](Email%20Alert/image003.png)
+<figure><img src=".gitbook/assets/Email%20Alert/image003.png" alt=""><figcaption></figcaption></figure>
 
 Enter the same password in two text boxes then select the **OK** button
 to activate the security feature.  This hides the [Alert
@@ -57,7 +57,7 @@ Editor](Alert%20Editor.htm), [Email Setup](Email%20Setup.htm), and [Data
 Setup](Data%20Setup.htm) tabs and the **File/Open** menu item,
 preventing the current configuration from being changed.
 
-![](Email%20Alert/image004.png)
+<figure><img src=".gitbook/assets/Email%20Alert/image004.png" alt=""><figcaption></figcaption></figure>
 
 To deactivate the security feature, select the **Edit/Unlock** menu item
 on the main form.  The **Unlock Alert Editor** dialog window is
@@ -65,7 +65,7 @@ displayed.  Type in the previously entered password and select the OK
 button to deactivate the security feature.  The hidden tabs and menu
 items on the main form will again appear.
 
-![](Email%20Alert/image005.png)
+<figure><img src=".gitbook/assets/Email%20Alert/image005.png" alt=""><figcaption></figcaption></figure>
 
 # Exiting the Module
 

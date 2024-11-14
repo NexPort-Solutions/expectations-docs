@@ -9,12 +9,12 @@ indicates \"Waiting For Call\".  To start a new case, either:
 
 -   press the **Start** button
 
-![](Starting%20a%20Case_files/image001.png){border="0" width="570"
+<figure><img src=".gitbook/assets/Starting%20a%20Case_files/image001.png" alt=""><figcaption></figcaption></figure>{border="0" width="570"
 height="254"}
 
 -   select the **Case - Start Call** menu item
 
-![](Starting%20a%20Case_files/image002.png){border="0" width="159"
+<figure><img src=".gitbook/assets/Starting%20a%20Case_files/image002.png" alt=""><figcaption></figcaption></figure>{border="0" width="159"
 height="98"}
 
 -   press the **F5** function key
@@ -41,7 +41,7 @@ Note when the active call window first opens:
 -   The dynamic components of the [customizable window
     caption](Main%20Form%20Caption%20Editor.htm) are initially blank.
 
-![](Starting%20a%20Case_files/image003.png){border="0" width="697"
+<figure><img src=".gitbook/assets/Starting%20a%20Case_files/image003.png" alt=""><figcaption></figcaption></figure>{border="0" width="697"
 height="501"}
 
 # Toolbar Buttons

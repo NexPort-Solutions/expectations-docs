@@ -29,4 +29,4 @@ content of all email messages can contain any of the ten items by
 checking the box next to the item to include such as **Case Number** and
 **Dispatcher**.
 
-![](Email%20Setup/image001.png)
+<figure><img src=".gitbook/assets/Email%20Setup/image001.png" alt=""><figcaption></figcaption></figure>

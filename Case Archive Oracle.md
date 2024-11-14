@@ -11,7 +11,7 @@ Archive** section includes functionality for creating and selecting a
 database.  To close the tab without making an archive selection, click
 one of the other tabs or the \'X\' toolbar button.
 
-![](Case%20Archive%20Oracle_files/image001.png){border="0" width="655"
+<figure><img src=".gitbook/assets/Case%20Archive%20Oracle_files/image001.png" alt=""><figcaption></figcaption></figure>{border="0" width="655"
 height="504"}
 
 # Connect To Server

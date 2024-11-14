@@ -11,7 +11,7 @@ select a **Call Type** on the Call Types sub tab, then select the
 adjacent **Universal Questions** sub tab within **Premier Responder
 Administrator**.
 
-![](General%20Questions%20Editor_files/image001.png){border="0"
+<figure><img src=".gitbook/assets/General%20Questions%20Editor_files/image001.png" alt=""><figcaption></figcaption></figure>{border="0"
 width="655" height="504"}
 
 # Universal Questions Editor Description
@@ -37,7 +37,7 @@ associated question set loads into the **Question** edit screen of the
 **Universal Questions** editor.  Note that, for liability reasons, only
 limited editing of the medical questions is allowed.
 
-![](General%20Questions%20Editor_files/image003.png){border="0"
+<figure><img src=".gitbook/assets/General%20Questions%20Editor_files/image003.png" alt=""><figcaption></figcaption></figure>{border="0"
 width="297" height="171"}
 
 # Changing the Universal Questions
@@ -71,7 +71,7 @@ contains question related edit fields.  On the **List Items** edit
 screen are edit fields used to enter information for list box style
 questions.
 
-![](General%20Questions%20Editor_files/image004.png){border="0"
+<figure><img src=".gitbook/assets/General%20Questions%20Editor_files/image004.png" alt=""><figcaption></figcaption></figure>{border="0"
 width="441" height="338"}
 
 The **Question** editing controls consist of the following:
@@ -113,7 +113,7 @@ button is clicked, a pop-up menu appears listing the available links. 
 Click on a link to attach it to the question.  An attached link is
 indicated by a check mark next to it.
 
-![](General%20Questions%20Editor_files/image005.png){border="0"
+<figure><img src=".gitbook/assets/General%20Questions%20Editor_files/image005.png" alt=""><figcaption></figcaption></figure>{border="0"
 width="386" height="209"}
 
 The resulting actions initiated by the different link types are as
@@ -183,7 +183,7 @@ The **List Items** section of the **Universal Questions sub tab** is
 enabled only for **List Box**, **Guide Card**, and **Text & List** style
 questions.
 
-![](General%20Questions%20Editor_files/image007.png){border="0"
+<figure><img src=".gitbook/assets/General%20Questions%20Editor_files/image007.png" alt=""><figcaption></figcaption></figure>{border="0"
 width="627" height="367"}
 
 Located within the **List Items** section are the following controls:
@@ -212,7 +212,7 @@ a new generic list item.  Next, enter the item text in the
 **Description** text box.  The new item\'s text should update and be
 present in the **Select** listbox.
 
-![](General%20Questions%20Editor_files/image008.png){border="0"
+<figure><img src=".gitbook/assets/General%20Questions%20Editor_files/image008.png" alt=""><figcaption></figcaption></figure>{border="0"
 width="436" height="121"}
 
 An existing list item can be edited by first selecting it in the list
@@ -220,7 +220,7 @@ and then supplying alternate text in the **Description** text box. 
 Modifications to the list item text should be immediately visible in the
 **Select** listbox.
 
-![](General%20Questions%20Editor_files/image009.png){border="0"
+<figure><img src=".gitbook/assets/General%20Questions%20Editor_files/image009.png" alt=""><figcaption></figcaption></figure>{border="0"
 width="441" height="119"}
 
 To delete a list item, first select it and then click the **Delete**
@@ -239,7 +239,7 @@ item, first **Select** a list item from the listbox.  Next click on one
 of the **Links** buttons and select a link in the corresponding drop
 down list.  An attached link is indicated by a check mark next to it.
 
-![](General%20Questions%20Editor_files/image011.png){border="0"
+<figure><img src=".gitbook/assets/General%20Questions%20Editor_files/image011.png" alt=""><figcaption></figcaption></figure>{border="0"
 width="453" height="433"}
 
 # Entering CAD Narrative
@@ -252,7 +252,7 @@ It can include text for both the question plus the entry, the entry
 only, or an abbreviated job text.  The **Job Text** text box is used to
 enter an abbreviated narrative for a selection type entry. 
 
-![](General%20Questions%20Editor_files/image012.png){border="0"
+<figure><img src=".gitbook/assets/General%20Questions%20Editor_files/image012.png" alt=""><figcaption></figcaption></figure>{border="0"
 width="430" height="144"}
 
 # Entering Report Text

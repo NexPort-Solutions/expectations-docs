@@ -21,7 +21,7 @@ number of rows returned by the search is set by the **Page Size** drop
 down selector located on the **Search Results** toolbar and appears in
 the far right status bar panel.
 
-![](VPI%20Recordings_files/image001.png){border="0" width="652"
+<figure><img src=".gitbook/assets/VPI%20Recordings_files/image001.png" alt=""><figcaption></figcaption></figure>{border="0" width="652"
 height="414"}
 
 Use the **Search From** and **to** date/time controls on the main
@@ -33,7 +33,7 @@ replaces the not symbol.  Use the numeric **Page** selector on the
 **Search Results** toolbar to step through the pages or to enter a page
 number when the number of rows exceeds the set page size.
 
-![](VPI%20Recordings_files/image002.png){border="0" width="646"
+<figure><img src=".gitbook/assets/VPI%20Recordings_files/image002.png" alt=""><figcaption></figcaption></figure>{border="0" width="646"
 height="400"}
 
 # Playing Recordings
@@ -44,5 +44,5 @@ list or double click on a row.  If not logged into VPortal, the default
 web browser opens to the VPortal login screen.  Upon logging in to
 VPortal, the VPI media player opens with the selected interaction.
 
-![](VPI%20Recordings_files/image003.png){border="0" width="766"
+<figure><img src=".gitbook/assets/VPI%20Recordings_files/image003.png" alt=""><figcaption></figcaption></figure>{border="0" width="766"
 height="581"}

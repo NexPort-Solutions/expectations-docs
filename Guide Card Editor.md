@@ -11,7 +11,7 @@ in](Logging%20In.htm) as an administrator and select the **Edit - Guide
 Cards** menu item on the **Premier Responder** **Administrator** main
 window.  When active, other Premier Responder windows are disabled.
 
-![](Guide%20Card%20Editor_files/image006.png){border="0" width="655"
+<figure><img src=".gitbook/assets/Guide%20Card%20Editor_files/image006.png" alt=""><figcaption></figcaption></figure>{border="0" width="655"
 height="214"}
 
  
@@ -29,7 +29,7 @@ Categories Editor](Priority%20Categories%20Editor.htm) only appears when
 the **Priority** tab is selected.  Selecting the **\'X\'** button in the
 top right hand corner of the tab closes the **Guide Card Editor**.
 
-![](Guide%20Card%20Editor_files/image001.png){border="0" width="655"
+<figure><img src=".gitbook/assets/Guide%20Card%20Editor_files/image001.png" alt=""><figcaption></figcaption></figure>{border="0" width="655"
 height="504"}
 
 # Loading A Guide Card
@@ -44,7 +44,7 @@ cleared.  Next select a complaint from the **Guide Card** drop down
 list.  Each tab is then loaded with its own particular guide card
 information that is related to the specified complaint.
 
-![](Guide%20Card%20Editor_files/image002.png){border="0" width="655"
+<figure><img src=".gitbook/assets/Guide%20Card%20Editor_files/image002.png" alt=""><figcaption></figcaption></figure>{border="0" width="655"
 height="269"}
 
 # Vital Points Tab
@@ -79,7 +79,7 @@ are used as follows:
 -   To hide or display a question, select the checkbox next to the
     \"Show Question\" item.
 
-![](Guide%20Card%20Editor_files/image003.png){border="0" width="655"
+<figure><img src=".gitbook/assets/Guide%20Card%20Editor_files/image003.png" alt=""><figcaption></figcaption></figure>{border="0" width="655"
 height="504"}
 
 # Priority Tab
@@ -110,7 +110,7 @@ description and code text boxes to enter symptoms for the selected
     in the **Code** box at the bottom of the window.  The new code is
     saved automatically.
 
-![](Guide%20Card%20Editor_files/image004.png){border="0" width="655"
+<figure><img src=".gitbook/assets/Guide%20Card%20Editor_files/image004.png" alt=""><figcaption></figcaption></figure>{border="0" width="655"
 height="504"}
 
 # Call-Taker Act, Pre-Arrival, Dispatcher Act, & Background
@@ -123,7 +123,7 @@ enter the text directly into the rich text box or paste it from the
 clipboard using the control-v key combination.  Changes are
 automatically saved.
 
-![](Guide%20Card%20Editor_files/image005.png){border="0" width="655"
+<figure><img src=".gitbook/assets/Guide%20Card%20Editor_files/image005.png" alt=""><figcaption></figcaption></figure>{border="0" width="655"
 height="504"}
 
 # Short Report Tab
@@ -142,7 +142,7 @@ is as follows:
     menu to create a data item tag.
 -   Select the **Remove** button to delete data items from the report.
 
-![](Guide%20Card%20Editor_files/image007.png){border="0" width="655"
+<figure><img src=".gitbook/assets/Guide%20Card%20Editor_files/image007.png" alt=""><figcaption></figcaption></figure>{border="0" width="655"
 height="504"}
 
  

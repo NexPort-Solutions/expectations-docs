@@ -16,7 +16,7 @@ the tool bar where the controls for those functions, that require quick
 access are located. These functions include starting a call, viewing a
 case, refreshing the case list, and pre-selecting a call type.
 
-![](Calltaker_files/image001.png)
+<figure><img src=".gitbook/assets/Calltaker_files/image001.png" alt=""><figcaption></figcaption></figure>
 
 # Premier Responder Call-taker Functions
 

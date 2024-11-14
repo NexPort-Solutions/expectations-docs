@@ -10,14 +10,14 @@ administrator.  To bring up the "Contacts" tab with the editing buttons
 visible first [log in](Logging%20In.htm) to the Premier Responder
 Administrator and then select **Edit -\> Contacts** menu item.
 
-![](Contacts%20Editor_files/image001.png){border="0" width="655"
+<figure><img src=".gitbook/assets/Contacts%20Editor_files/image001.png" alt=""><figcaption></figcaption></figure>{border="0" width="655"
 height="207"}
 
 The **Contacts** tab appears as shown below.  Tool tips are available to
 identify all controls.  By holding the mouse pointer over the control, a
 text description of the control will appear.
 
-![](Contacts%20Editor_files/image002.png){border="0" width="655"
+<figure><img src=".gitbook/assets/Contacts%20Editor_files/image002.png" alt=""><figcaption></figcaption></figure>{border="0" width="655"
 height="504"}
 
 # Adding a Contact

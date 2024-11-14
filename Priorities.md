@@ -16,4 +16,4 @@ Priority categories are entered in the Priority Categories tab of the
 on the **Priority** sub tab in the [Guide Card
 Editor](Guide%20Card%20Editor.htm).
 
-![](Priorities_files/image001.png)
+<figure><img src=".gitbook/assets/Priorities_files/image001.png" alt=""><figcaption></figcaption></figure>

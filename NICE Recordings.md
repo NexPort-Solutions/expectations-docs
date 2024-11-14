@@ -19,7 +19,7 @@ otherwise they are set to search the current day\'s recordings.
 Resources available for searching appear in the **Resource** drop down
 list on the toolbar.
 
-![](NICE%20Recordings_files/image001.PNG){border="0" width="639"
+<figure><img src=".gitbook/assets/NICE%20Recordings_files/image001.PNG" alt=""><figcaption></figcaption></figure>{border="0" width="639"
 height="400"}
 
 Use the **Search From** and **to** date/time controls and the
@@ -27,7 +27,7 @@ Use the **Search From** and **to** date/time controls and the
 **Search** button to begin the search.  Recordings meeting the given
 criteria  appear in the **Search Results** list.
 
-![](NICE%20Recordings_files/image002.PNG){border="0" width="639"
+<figure><img src=".gitbook/assets/NICE%20Recordings_files/image002.PNG" alt=""><figcaption></figcaption></figure>{border="0" width="639"
 height="400"}
 
 # Playing Recordings
@@ -38,5 +38,5 @@ The default player for WAV files opens and plays the recording.  Note
 that the default player for WAV files may be changed in the Windows
 settings.
 
-![](NICE%20Recordings_files/image003.PNG){border="0" width="638"
+<figure><img src=".gitbook/assets/NICE%20Recordings_files/image003.PNG" alt=""><figcaption></figcaption></figure>{border="0" width="638"
 height="400"}

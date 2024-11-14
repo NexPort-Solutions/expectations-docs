@@ -12,7 +12,7 @@ Responder Administrator application, log in as Administrator and select
 the **Edit - SOP\'s** menu item on the **Premier Responder
 Administrator** window.
 
-![](Standard%20Operating%20Procedures%20Editor_files/image001.png){border="0"
+<figure><img src=".gitbook/assets/Standard%20Operating%20Procedures%20Editor_files/image001.png" alt=""><figcaption></figcaption></figure>{border="0"
 width="653" height="211"}
 
 The **SOP\'s** editing tab appears on the Premier Responder
@@ -21,7 +21,7 @@ the graphical buttons.  Hold the mouse cursor over the button for a
 short period of time to see the tip.  Selecting the **Close** button
 closes the tab.
 
-![](Standard%20Operating%20Procedures%20Editor_files/image002.png){border="0"
+<figure><img src=".gitbook/assets/Standard%20Operating%20Procedures%20Editor_files/image002.png" alt=""><figcaption></figcaption></figure>{border="0"
 width="655" height="504"}
 
 # Procedures
@@ -84,5 +84,5 @@ with a single step.  When attempting to change the association, a prompt
 is displayed indicating an existing attachment.  The user must then
 indicate whether or not to replace the existing attachment.
 
-![](Standard%20Operating%20Procedures%20Editor_files/image003.png){border="0"
+<figure><img src=".gitbook/assets/Standard%20Operating%20Procedures%20Editor_files/image003.png" alt=""><figcaption></figcaption></figure>{border="0"
 width="405" height="160"}

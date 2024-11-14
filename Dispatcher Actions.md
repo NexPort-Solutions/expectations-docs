@@ -11,7 +11,7 @@ Card Tabs configuration screen](Guide%20Card%20Tabs%20Settings.htm). 
 Dispatcher actions are entered using the [Guide Card
 Editor](Guide%20Card%20Editor.htm).
 
-![](Dispatcher%20Actions_files/image001.png){border="0" width="697"
+<figure><img src=".gitbook/assets/Dispatcher%20Actions_files/image001.png" alt=""><figcaption></figcaption></figure>{border="0" width="697"
 height="501"}
 
  

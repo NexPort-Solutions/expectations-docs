@@ -9,7 +9,7 @@ QA Reports** menu item.  From the QA Reports screen, reports can be
 configured, stored, recalled, and a PDF document containing resulting
 charts and statistics generated.
 
-![](QA%20Reports_files/image001.png){border="0" width="639"
+<figure><img src=".gitbook/assets/QA%20Reports_files/image001.png" alt=""><figcaption></figcaption></figure>{border="0" width="639"
 height="400"}
 
 # Reporting Period
@@ -30,7 +30,7 @@ making a selection in the drop down.  Each entry in the **Results** list
 includes a checkbox which, when checked, adds related statistics to the
 table on the **Stats** tab.
 
-![](QA%20Reports_files/image002.png){border="0" width="639"
+<figure><img src=".gitbook/assets/QA%20Reports_files/image002.png" alt=""><figcaption></figcaption></figure>{border="0" width="639"
 height="400"}
 
 # Statistical Charts
@@ -44,7 +44,7 @@ Calls](Call%20Scoring%20Settings.htm){style="font-style: italic"}, and
 *Average Score*.  The checked source item appears at the top right of
 the chart.
 
-![](QA%20Reports_files/image003.png){border="0" width="639"
+<figure><img src=".gitbook/assets/QA%20Reports_files/image003.png" alt=""><figcaption></figcaption></figure>{border="0" width="639"
 height="400"}
 
 # Charting Options
@@ -66,7 +66,7 @@ saved report, select it in the combo drop down list.  When no longer
 needed, a report can be deleted with the **Discard Report** button after
 it has been loaded.
 
-![](QA%20Reports_files/image004.png){border="0" width="639"
+<figure><img src=".gitbook/assets/QA%20Reports_files/image004.png" alt=""><figcaption></figcaption></figure>{border="0" width="639"
 height="400"}
 
 # Saving & Printing

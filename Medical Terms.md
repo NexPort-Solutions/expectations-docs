@@ -30,7 +30,7 @@ and the term in the right.  Selecting either the abbreviation or term
 highlights the entire row.  Additionally, if the glossary contains a
 definition, it is automatically selected.
 
-![](Medical%20Terms_files/image001.png){border="0" width="596"
+<figure><img src=".gitbook/assets/Medical%20Terms_files/image001.png" alt=""><figcaption></figcaption></figure>{border="0" width="596"
 height="400"}
 
 # Glossary Tab
@@ -43,5 +43,5 @@ done by either:
 
 A description of the selected term is shown in the **Definition** box.
 
-![](Medical%20Terms_files/image002.png){border="0" width="596"
+<figure><img src=".gitbook/assets/Medical%20Terms_files/image002.png" alt=""><figcaption></figcaption></figure>{border="0" width="596"
 height="400"}

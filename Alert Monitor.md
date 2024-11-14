@@ -12,4 +12,4 @@ number of occurrences reaches the alert\'s **Limit**, then the alert
 becomes active and an email message is sent out to the specified
 addresses.  An active alert is indicated by a red background.
 
-![](Alert%20Monitor/image001.png)
+<figure><img src=".gitbook/assets/Alert%20Monitor/image001.png" alt=""><figcaption></figcaption></figure>

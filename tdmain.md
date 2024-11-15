@@ -1,4 +1,4 @@
-| <font size="4" color="#0000FF"><b>Main Form</b></font> |
+# Main Form
 -----
 
 The main form is the parent form of the Training & Development application.&nbsp; All the other forms are limited to operate within the bounds of the main form.&nbsp; At the top of the form are the main menus.&nbsp; Within the main menus are the menu items that access the other forms.&nbsp; Menu items may or may not be enabled, depending on if a user has logged in and what their security level is.&nbsp; Enabled menu items are indicated by black text, disabled menu items by gray text.&nbsp; User information displays on the status bar at the bottom of the form.&nbsp; To exit the Training & Development application, select the control box X or the File - Exit menu item.

@@ -1,4 +1,4 @@
-| <font size="4" color="#0000FF"><b>Startup</b></font> |
+# Startup
 -----
 
 To start the Training & Development application, select the shortcut on the 

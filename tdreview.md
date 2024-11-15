@@ -1,4 +1,4 @@
-| <font size="4" color="#0000FF"><b>Training Requirements Reviewer</b></font> |
+# Training Requirements Reviewer
 -----
 
 The Training Requirements Reviewer is accessed via the Training Requirements -&gt; Review menu item on the main form, or via the Ctrl+R keyboard hotkey.

@@ -1,4 +1,4 @@
-| <font size="4" color="#0000FF"><b>Main Form</b></font> |
+# Main Form
 -----
 
 The main form is Expectation's parent form.&nbsp; All the other forms are limited 

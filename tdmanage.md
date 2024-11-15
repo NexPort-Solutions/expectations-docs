@@ -1,4 +1,4 @@
-| <font size="4" color="#0000FF"><b>Training Requirements Manager</b></font> |
+# Training Requirements Manager
 -----
 
 The Training Requirements Manager is accessed via the Training Requirements -&gt; Manage menu item on the main form, or via the Ctrl+M keyboard hotkey.

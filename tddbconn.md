@@ -1,4 +1,4 @@
-| <font size="4" color="#0000FF"><b>Database Connection</b></font> |
+# Database Connection
 -----
 
 On a machine where the Expectations suite is installed for the first time, both Expectations and the Training & Development application are configured to connect to an MS Access database located in the application folder.&nbsp; Versions of the Expectations suite that are higher than v7.0.x will make use of an existing database configuration for Expectations and the Training & Development application, if present.

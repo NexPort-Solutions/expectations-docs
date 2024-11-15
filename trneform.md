@@ -1,4 +1,4 @@
-| <font color="#0000FF" size="4"><b>Trainee/Employee Form</b></font> |
+# Trainee/Employee Form
 -----
 
 The Trainee/Employee Form provides employees with the means to view, print 

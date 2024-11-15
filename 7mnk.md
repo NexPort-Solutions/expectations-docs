@@ -1,4 +1,4 @@
-| <font size="4" color="#0000FF"><b>Database Connection</b></font> |
+# Database Connection
 -----
 
 After installation, Expectations is configured to establish a connection to an 

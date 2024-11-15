@@ -1,4 +1,4 @@
-| <font size="4" color="#0000FF"><b>Training Requirements Editor</b></font> |
+# Training Requirements Editor
 -----
 
 The Training Requirements Editor is accessed via the Training Requirements -&gt; Edit menu item on the main form, or via the Ctrl+E keyboard hotkey.

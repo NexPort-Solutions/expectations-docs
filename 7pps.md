@@ -1,5 +1,5 @@
 # Evaluation Techniques 
-| --- |
+-----
 
 Evaluation of employee performance and behavior is seen as a "necessary evil."  Employees generally do not like the process, and supervisors see it as something that has to be done once a year.
 

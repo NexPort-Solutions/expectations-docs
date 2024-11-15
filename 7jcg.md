@@ -1,5 +1,5 @@
 | <font size="4" color="#0000FF"><b>Add Criteria Set Form</b></font> |
-| --- |
+-----
 
 The Add Criteria Set form is accessed from the [Criteria Sets tab](<7ga8.md>) on the [Administrator form](<7df4.md>).&nbsp; It 
 allows new criteria sets to be entered into the Expectations database.&nbsp; A 

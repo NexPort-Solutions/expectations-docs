@@ -1,5 +1,5 @@
 # Modify Criteria Set Form 
-| --- |
+-----
 
 The Modify Criteria Set form is accessed from the [Criteria Sets tab](<7ga8.md>) on the [Administrator form](<7df4.md>).&nbsp; It 
 allows changes to be made to an existing criteria set.&nbsp; The selected criteria 

@@ -1,5 +1,5 @@
 # Trainee/Employee Reports 
-| --- |
+-----
 
 The **Trainee/Employee Reports** form is used to select the evaluations 
 that are displayed on the [Trainees/Employees 

@@ -1,5 +1,5 @@
 # Add Trainee/Employee Form 
-| --- |
+-----
 
 The Add Trainee/Employee form is accessed from the [Trainee/Employee tab](<7g6o.md>) on the [Administrator form](<7df4.md>).&nbsp; 
 It allows a new trainee/employee account to be created.&nbsp; 

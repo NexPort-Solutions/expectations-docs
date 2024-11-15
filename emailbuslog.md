@@ -1,5 +1,5 @@
 # Expectations Email Service: User Setup 
-| --- |
+-----
 
 Setting users up with the Expectations email service consists of supplying values for service-related controls in the "Add..." and "Modify..." dialogs for Trainers/Supervisors and Trainees/Employees.
 

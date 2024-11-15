@@ -1,5 +1,5 @@
 # Trainee/Employee Screen: View Evaluation Tab 
-| --- |
+-----
 
 The Trainee/Employee form View Evaluation tab is accessed via the 
 Trainee/Employee - View Evaluation menu item on the [main form](<7jjr.md>).

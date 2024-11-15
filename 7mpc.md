@@ -1,5 +1,5 @@
 # System Utilities Form: Backup/Restore Tab 
-| --- |
+-----
 
 To bring up the Backup/Restore tab on the 
 [System 
@@ -56,4 +56,4 @@ connected to the shared database.&nbsp; A restore complete dialog window
 notifies the user when finished.
 
 | <font size="3" color="#FF0000"><b>WARNING:</b></font><font color="#FF0000">Restoring the database may result in user logins and <br>    passwords being changed.&amp;nbsp; It is important to know the login and <br>    password of at least one level 3 user in the backup database to keep from <br>    being locked out of the system.&amp;nbsp; As a precaution, prior to performing a <br>    restore it would be a good idea to save the existing �expectations.mdb� file to a <br>    backup folder.&amp;nbsp; </font> |
-| --- |
+-----

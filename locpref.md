@@ -1,5 +1,5 @@
 # System Utilities Form:     Local Preferences Tab 
-| --- |
+-----
 
 To open the Local Preferences tab on the 
 [System 

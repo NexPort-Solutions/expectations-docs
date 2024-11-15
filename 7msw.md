@@ -1,5 +1,5 @@
 # Download Form: Trainers/Supervisors Tab 
-| --- |
+-----
 
 Use the  trainers/supervisors tab on the [download form](<7mr4.md>) to transfer trainer/supervisor 
 logins from the central workstation to a stand-alone workstation.&nbsp; Begin by selecting the trainers/supervisors to download 
@@ -21,4 +21,4 @@ will bring up a dialog box, offering the operator an opportunity to abort the
 download.
 
 | **NOTE:** Only users on a [Central System](<7mls.md>) with a <br>security level 3 may download trainers/supervisors. |
-| --- |
+-----

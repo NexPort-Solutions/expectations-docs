@@ -1,5 +1,5 @@
 # Expectations Email Service: Configuration 
-| --- |
+-----
 
 To get started with the Expectations Email Service, a few configuration settings are required.&nbsp; The required settings are located in the "Email Setup", "Email Test", and (if applicable) "Network Share Credentials (MS Access)" sections.  The "Message Processing and Sending" and "Email Message Type" setting sections may also be configured, but are not mandatory for the proper function of the email service.
 

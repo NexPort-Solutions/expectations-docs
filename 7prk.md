@@ -1,5 +1,5 @@
 # Standardized Guidelines for Evaluation 
-| --- |
+-----
 
 These guidelines are designed to give the trainer/supervisor specific guidelines by which to objectively evaluate behavior and performance.  These guidelines ensure the trainer's/supervisor's evaluation tool is considered valid and reliable.
 

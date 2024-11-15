@@ -1,5 +1,5 @@
 # System Utilities Form:     Global Settings Tab 
-| --- |
+-----
 
 To open the Global Settings tab on the 
 [System 

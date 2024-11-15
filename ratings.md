@@ -1,5 +1,5 @@
 # Global Settings Tab:     Ratings Sub-Tab 
-| --- |
+-----
 
 To open the Ratings sub-tab of the 
 [Global Settings tab](<globset.md>), start by selecting the Global Settings menu item from the Administrator menu on the

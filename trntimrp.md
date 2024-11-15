@@ -1,5 +1,5 @@
 # Training Time Report 
-| --- |
+-----
 
 <u>Training Time Report Window</u>
 

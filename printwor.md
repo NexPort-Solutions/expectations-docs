@@ -1,5 +1,5 @@
 # Trainer/Supervisor Form:     Print Worksheet Tab 
-| --- |
+-----
 
 The Trainer/Supervisor form Print Worksheet tab is accessed via the 
 Trainer/Supervisor - Print Worksheet menu item on the [main form](<7jjr.md>).

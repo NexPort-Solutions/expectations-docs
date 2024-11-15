@@ -1,5 +1,5 @@
 | <font size="4" color="#0000FF"><b>Database Connection</b></font> |
-| --- |
+-----
 
 After installation, Expectations is configured to establish a connection to an 
 Access database file in the application folder by default.&nbsp; Use the File - 
@@ -35,7 +35,7 @@ The Select Database window closes and the Login window appears if the connection
 attempt is successful.
 
 | <font size="3"><b>NOTE</b>:  Expectations will remember and subsequently <br>    connect to the last database that was opened.</font> |
-| --- |
+-----
 
 > 
 > 
@@ -135,4 +135,4 @@ While they are not required for authoring new evaluations, they may be wanted
 for historical reference.
 
 | <font size="3"><b>NOTE</b>: </font>At this time during the update process, Training & Development application records may only be migrated automatically (rather than manually) from an MS Access database to SQL Server.&nbsp; For those older MS Access databases which do not meet the criteria specified in the [Conversion Options](<conv.md>) help topic for updating 'in-place', please consider converting your database to SQL Server automatically.&nbsp; If migrating your older MS Access database to SQL Server is not feasible at this time and the "Keep MS Access" button is not enabled, please contact Smart Horizons for assistance in separating out the database into multiple MS Access databases (each of which may be updated separately by the software, as normal). |
-| --- |
+-----

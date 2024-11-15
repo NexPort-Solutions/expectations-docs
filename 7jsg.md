@@ -1,5 +1,5 @@
 # Trainer/Supervisor Chart Screen 
-| --- |
+-----
 
 This screen depicts, in chart format, all the evaluations that meet the criteria selected.
 

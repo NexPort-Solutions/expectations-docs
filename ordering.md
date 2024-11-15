@@ -1,5 +1,5 @@
 # Global Settings Tab:     Ordering Sub-Tab 
-| --- |
+-----
 
 To open the Ordering sub-tab of the 
 [Global Settings tab](<globset.md>), start by selecting the Global Settings menu item from the Administrator menu on the

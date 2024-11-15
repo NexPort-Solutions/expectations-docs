@@ -1,5 +1,5 @@
 # Evaluation Viewer: Reviewer Comments Tab 
-| --- |
+-----
 
 **Evaluation Viewer Tabs**
 
@@ -18,4 +18,4 @@ one or more assigned reviewers.
 | <font size="3"><b>NOTE</b>:  Until all reviewers have 
 approved the evaluation, or unless turned off in the <a href="unapprove.htm">Unapproved Evaluations</a> configuration sub-tab of the Global Settings tab, DRAFT will appear across each page of the report 
 when printing or previewing.</font> |
-| --- |
+-----

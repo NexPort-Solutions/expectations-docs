@@ -1,5 +1,5 @@
 # Trainer/Supervisor Form: Review Evaluation Tab 
-| --- |
+-----
 
 The Trainer/Supervisor form Review Evaluation tab is accessed via the 
 Trainer/Supervisor - Review Evaluation menu item on the [main form](<7jjr.md>).
@@ -30,9 +30,9 @@ Viewer once approved by all reviewers, and in the evaluation report preview and 
 | <font size="3"><b>NOTE</b>:  Until all reviewers have 
 approved the evaluation, or unless turned off in the <a href="unapprove.htm">Unapproved Evaluations</a> configuration sub-tab of the Global Settings tab, DRAFT will appear across each page of the report 
 when printing or previewing.</font> |
-| --- |
+-----
 
 The Signatures tab will appear in the Evaluation Reviewer to allow an evaluation to be signed by the reviewer when the "Allow completed evaluations to be signed before they are fully-reviewed" checkbox is checked (in the [Signatures](<sig.md>) sub-tab of the [System Utilities](<7mk0.md>) form's [Global Settings](<globset.md>) tab).
 
 | <font size="3"><b>NOTE</b>:  If the &quot;Allow completed evaluations to be signed before they are fully-reviewed&quot; checkbox is checked , a confirmation prompt will appear for reviewers when they disapprove evaluations.&amp;nbsp; Choosing 'Yes' at the following prompt will cause all existing signatures to be cleared and the Signatures tab to disappear, since the evaluation is no longer in the 'Complete' state:</font> |
-| --- |
+-----

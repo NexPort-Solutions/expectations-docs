@@ -1,5 +1,5 @@
 # Local Preferences Tab:     Font Sub-Tab 
-| --- |
+-----
 
 To open the Font sub-tab of the 
 [Local Preferences tab](<locpref.md>), start by selecting the Local Preferences menu item from the File menu on the

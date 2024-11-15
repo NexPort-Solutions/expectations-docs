@@ -1,5 +1,5 @@
 # Download Form: Evaluations by Trainer/Supervisor Tab 
-| --- |
+-----
 
 Use the download evaluations by trainer/supervisor tab on the [download form](<7mr4.md>) to transfer evaluations written by a specified trainer/supervisor from the configured database (central or local) to the current workstation.&nbsp; The Active and Inactive radio buttons filter out unwanted selections from the drop down list.&nbsp; Checking the "Include incomplete evaluations" checkbox will reset the drop down list to also include those trainers/supervisors which may have only saved 'Incomplete' evaluations, and 'Incomplete' evaluations of a trainer/supervisor will also appear alongside any evaluations they had previously saved as 'Complete' in the "Select Evaluations" list.
 
@@ -16,4 +16,4 @@ form.&nbsp; Attempting to close the form while a download is in progress will br
 up a dialog box, offering the operator an opportunity to abort the download.
 
 | **NOTE:** &nbsp;Evaluations may be downloaded by any user on a [Stand-Alone System](<7mls.md>)&nbsp; <br>or by [security level](<7je8.md>) 3 users on a<br>[Central System](<7mls.md>). |
-| --- |
+-----

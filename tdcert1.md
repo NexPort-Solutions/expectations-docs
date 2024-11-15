@@ -1,5 +1,5 @@
 | <font size="4" color="#0000FF"><b>Certification Viewer</b></font> |
-| --- |
+-----
 
 The Certification Viewer is accessed via the Certifications -&gt; View menu item on the main form, or via the Ctrl+T keyboard hotkey.
 

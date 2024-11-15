@@ -25,7 +25,9 @@ To create a new task item, click the New button or press Alt+N on the keyboard. 
 
 To remove a selected task item from the Task Items tab, click the Delete button or press Alt+E on the keyboard.  You will be prompted to confirm the deletion.
 
-> **NOTE** : Upon deletion of a training item from the Training Modules, Training Requirements, Task Lists, or Task Items tab, the corresponding item is deleted from all higher-level lists to which the item may have belonged.
+{% hint style="info" %}
+**NOTE** : Upon deletion of a training item from the Training Modules, Training Requirements, Task Lists, or Task Items tab, the corresponding item is deleted from all higher-level lists to which the item may have belonged.
+{% endhint %}
 
 ***
 
@@ -44,7 +46,9 @@ Task lists initially load in the Task Lists tab alphanumerically by name.  Upon 
 
 Upon clicking the New button (keyboard hotkey Alt+N), a new task list will appear in the Task Lists list with a default name in the form of < New Task Item > or < New Task Item # > in an auto-incrementing fashion.  To rename a task list, either double-click the label on the left side, or click in the corresponding field of the Name column, then supply a unique task list name.  Clicking Delete (keyboard hotkey Alt+E) will open a prompt which, upon confirmation, will cause a selected task list to be deleted.
 
-> **NOTE** : Renaming any training item in the Training Modules, Training Requirements, and Task Lists tabs will cause the item's name to also change in any higher-level lists to which the item may belong.  Similarly, changing the description of a Task Item will cause the item's description to also change in all Task Lists to which the item may belong.
+{% hint style="info" %}
+**NOTE** : Renaming any training item in the Training Modules, Training Requirements, and Task Lists tabs will cause the item's name to also change in any higher-level lists to which the item may belong.  Similarly, changing the description of a Task Item will cause the item's description to also change in all Task Lists to which the item may belong.
+{% endhint %}
 
 ***
 
@@ -65,7 +69,9 @@ Upon clicking the Add button (keyboard hotkey Alt+A), the Add Task Items window 
 
 Add the item(s) from the Add Task Items window to the task list by clicking OK.
 
-> **NOTE** : Each training item in the Training Modules, Training Requirements, and Task Lists tabs may be added to more than one higher-level list, but training item names in each of those tabs must be unique from one another.  Similarly, each task item present in the Task Items tab may also be added to more than one task list in the Task Lists tab, but task item descriptions must be unique from one another.
+{% hint style="info" %}
+**NOTE** : Each training item in the Training Modules, Training Requirements, and Task Lists tabs may be added to more than one higher-level list, but training item names in each of those tabs must be unique from one another.  Similarly, each task item present in the Task Items tab may also be added to more than one task list in the Task Lists tab, but task item descriptions must be unique from one another.
+{% endhint %}
 
 ***
 
@@ -95,6 +101,8 @@ After setting the recurrence time period, the ability to set a training program 
 
 Upon checking the Recurring checkbox, an entry of this training program assigned to a training individual in the [Training Requirements Manager](tdmanage.md) will cause the entry to be highlighted yellow when only 10% of the entry's recurrence time period remains, or red when the entry was not set in the Reviewed state by the deadline.  More information on the color coding of recurring training program entries may be found in the [Training Requirements Manager](tdmanage.md) help topic.
 
-> **NOTE** : The Samples Database feature was used as-is in most of the examples found in this help entry.  For those Typical and Custom installations which do not currently have the Samples Database installed, a 'Change' installation may be initiated to add the feature onto a workstation where Expectations is already installed.  After installation, more information may be found out about the Samples Database feature by reading the "Samples Readme.txt" file (accessible via shortcut from the Start menu).
+{% hint style="info" %}
+**NOTE** : The Samples Database feature was used as-is in most of the examples found in this help entry.  For those Typical and Custom installations which do not currently have the Samples Database installed, a 'Change' installation may be initiated to add the feature onto a workstation where Expectations is already installed.  After installation, more information may be found out about the Samples Database feature by reading the "Samples Readme.txt" file (accessible via shortcut from the Start menu).
+{% endhint %}
 
 ***

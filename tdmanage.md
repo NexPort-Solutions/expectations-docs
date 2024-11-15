@@ -39,7 +39,9 @@ Check (or press Spacebar on the keyboard) the Archived checkbox to deactivate an
 
 The Progress tab may be used by all Trainers/Supervisors to enable training program entry items for review by the training individual to whom the training program entry was assigned.  As a Trainer/Supervisor determines that one or more training program entry items have been completed by the training individual, the Trainer/Supervisor may check the checkboxes (via mouse-click or the Spacebar key) next to the completed items in the Progress tab.
 
-> **NOTE** : The training program entry items in the Progress tab may also be navigated via the keyboard, though checking/unchecking the checkboxes next to training program entry items using Spacebar will require a second press of the down arrow (when navigating top to bottom) or the up arrow (when navigating bottom to top) on the keyboard so that the checkbox is first put into focus.
+{% hint style="info" %}
+**NOTE** : The training program entry items in the Progress tab may also be navigated via the keyboard, though checking/unchecking the checkboxes next to training program entry items using Spacebar will require a second press of the down arrow (when navigating top to bottom) or the up arrow (when navigating bottom to top) on the keyboard so that the checkbox is first put into focus.
+{% endhint %}
 
 ***
 
@@ -70,6 +72,8 @@ Archived training program entries may be reactivated by unchecking the Archived 
 * If a recurring training program entry is reactivated for use, the Trainer/Supervisor who is performing the reactivation may wish to clear any previous reviewed and/or completed statuses if present in the Completed and/or Progress tabs (respectively) in order for level 3 Trainers/Supervisors to properly make use of the entry color-coding available in the Write tab.
 * Archived entries which are certifications will not remove the corresponding training individual's entry in the [Certification Viewer](tdcert.md)
 
-> **NOTE** : The Samples Database feature was used as-is in most of the examples found in this help entry.  For those Typical and Custom installations which do not currently have the Samples Database installed, a 'Change' installation may be initiated to add the feature onto a workstation where Expectations is already installed.  After installation, more information may be found out about the Samples Database feature by reading the "Samples Readme.txt" file (accessible via shortcut from the Start menu).
+{% hint style="info" %}
+**NOTE** : The Samples Database feature was used as-is in most of the examples found in this help entry.  For those Typical and Custom installations which do not currently have the Samples Database installed, a 'Change' installation may be initiated to add the feature onto a workstation where Expectations is already installed.  After installation, more information may be found out about the Samples Database feature by reading the "Samples Readme.txt" file (accessible via shortcut from the Start menu).
+{% endhint %}
 
 ***

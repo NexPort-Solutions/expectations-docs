@@ -14,6 +14,8 @@ The Modify Criteria form includes the following fields:
 * **Labels** (rating label texts and [Forced Comment](7crq.md)-mirroring checkboxes for the current criterion)
 * **Meaning** (description of currently selected rating label, if available)
 
-> **NOTE** : After editing the ratings themselves ([Ratings](ratings.md) sub-tab of [Global Settings](globset.md)), any existing criteria which should have the updated ratings must be deleted and recreated via the [Add Criteria](7gmo.md) form to get the new list of ratings.  Recreated criteria will need to have rating meanings re-added, and the criteria will also need to be re-added to any prior criteria sets using the [Modify Criteria Set](7jjk.md) form.
+{% hint style="info" %}
+**NOTE** : After editing the ratings themselves ([Ratings](ratings.md) sub-tab of [Global Settings](globset.md)), any existing criteria which should have the updated ratings must be deleted and recreated via the [Add Criteria](7gmo.md) form to get the new list of ratings.  Recreated criteria will need to have rating meanings re-added, and the criteria will also need to be re-added to any prior criteria sets using the [Modify Criteria Set](7jjk.md) form.
+{% endhint %}
 
 ***

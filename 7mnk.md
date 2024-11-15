@@ -74,6 +74,8 @@ At launch or when switching the choice in the Select Database dialog, you can ch
 
 Note: Relocating evaluations to a SQL Server database is optional.  While they are not required for authoring new evaluations, they may be wanted for historical reference.
 
-> **NOTE** : At this time during the update process, Training & Development application records may only be migrated automatically (rather than manually) from an MS Access database to SQL Server.  For those older MS Access databases which do not meet the criteria specified in the [Conversion Options](conv.md) help topic for updating 'in-place', please consider converting your database to SQL Server automatically.  If migrating your older MS Access database to SQL Server is not feasible at this time and the "Keep MS Access" button is not enabled, please contact Smart Horizons for assistance in separating out the database into multiple MS Access databases (each of which may be updated separately by the software, as normal).
+{% hint style="info" %}
+**NOTE** : At this time during the update process, Training & Development application records may only be migrated automatically (rather than manually) from an MS Access database to SQL Server.  For those older MS Access databases which do not meet the criteria specified in the [Conversion Options](conv.md) help topic for updating 'in-place', please consider converting your database to SQL Server automatically.  If migrating your older MS Access database to SQL Server is not feasible at this time and the "Keep MS Access" button is not enabled, please contact Smart Horizons for assistance in separating out the database into multiple MS Access databases (each of which may be updated separately by the software, as normal).
+{% endhint %}
 
 ***

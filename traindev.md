@@ -1,5 +1,5 @@
 # Expectations: Training &amp; Development 
------
+---
 
 - [Getting Started](<tdgets.md>)
 - [Certifications](<tdcert.md>)

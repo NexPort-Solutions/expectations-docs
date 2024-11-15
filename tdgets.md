@@ -1,5 +1,5 @@
 # Getting Started 
------
+---
 
 - [Startup](<tdstart.md>)
 - [Main Form](<tdmain.md>)

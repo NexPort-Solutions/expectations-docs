@@ -1,5 +1,5 @@
 # Download Form: Criteria Sets     Tab 
------
+---
 
 Use the download criteria sets tab on the [download 
 form](<7mr4.md>) to transfer criteria sets authored at the central workstation to a stand-alone workstation.&nbsp; Begin by selecting the 
@@ -20,4 +20,4 @@ will bring up a dialog box, offering the operator an opportunity to abort the
 download.
 
 | <font size="3"><b>Note:: </b>Only users on a<br>    <a href="7mls.htm">Central System</a> with a security level 3  may download criteria sets.  </font> |
------
+---

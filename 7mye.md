@@ -1,5 +1,5 @@
 # Download Form: System Tables     Tab 
------
+---
 
 Use the download system tables tab on the [download 
 form](<7mr4.md>) to transfer departments, shifts, and phases entered at the central workstation to a stand-alone workstation.&nbsp; Begin by selecting the 
@@ -22,4 +22,4 @@ download.
 
 | <font size="3"><b>Note:: </b>Only users on a<br>    <a href="7mls.htm">Central System</a> with a security level 3  may download 
 system table records.</font> |
------
+---

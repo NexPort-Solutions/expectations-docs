@@ -1,5 +1,5 @@
 # Main Form
------
+---
 
 The main form is Expectation's parent form.&nbsp; All the other forms are limited 
 to operate within the bounds of the main form.&nbsp; At the top of the form are the 

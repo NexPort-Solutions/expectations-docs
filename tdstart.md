@@ -1,5 +1,5 @@
 # Startup
------
+---
 
 To start the Training & Development application, select the shortcut on the 
 desktop or in the Start menu.&nbsp; The splash screen is displayed when the [main form](<tdmain.md>) 

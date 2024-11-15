@@ -1,5 +1,5 @@
 # Convert older database from MS Access to SQL Server 
------
+---
 
 ## Conversion Options Window
 
@@ -29,4 +29,4 @@ Click the OK button in the confirmation dialog, then OK in the SQL Server databa
 After the records have been copied, the Updating... progress dialog will appear to provide the status of the final stage of database conversion from MS Access to SQL Server before either Expectations or the Training and Development application loads:
 
 > **NOTE** : At this time during the update process, Training & Development application records may only be migrated automatically (rather than manually) from an MS Access database to SQL Server.&nbsp; For those older MS Access databases which do not meet the criteria specified earlier in this help topic for updating 'in-place', please consider converting your database to SQL Server automatically.&nbsp; If migrating your older MS Access database to SQL Server is not feasible at this time and the "Keep MS Access" button is not enabled, please contact Smart Horizons for assistance in separating out the database into multiple MS Access databases (each of which may be updated separately by the software, as normal). 
------
+---

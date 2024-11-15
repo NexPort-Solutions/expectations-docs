@@ -1,5 +1,5 @@
 # Evaluation Viewer: Trainee/Employee Information Tab 
------
+---
 
 **Evaluation Viewer Tabs**
 
@@ -54,4 +54,4 @@ or exported to a file.&nbsp; The Quit button closes this screen.
 | <font size="3"><b>NOTE</b>:  Until an evaluation has been 
 approved by all reviewers, DRAFT will appear across each page of the report 
 when printing or previewing.</font> |
------
+---

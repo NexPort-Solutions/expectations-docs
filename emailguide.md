@@ -1,5 +1,5 @@
 # Expectations Email Service: How it Works 
------
+---
 
 The Expectations Email Service is the means by which notification emails are provided to those Trainers/Supervisors who are configured to receive them at specified time intervals, and under particular conditions.
 

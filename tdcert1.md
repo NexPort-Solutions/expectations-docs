@@ -1,5 +1,5 @@
 # Certification Viewer
------
+---
 
 The Certification Viewer is accessed via the Certifications -&gt; View menu item on the main form, or via the Ctrl+T keyboard hotkey.
 

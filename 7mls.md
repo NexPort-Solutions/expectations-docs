@@ -1,5 +1,5 @@
 # System Utilities Form: System Properties     Tab 
------
+---
 
 The System Properties tab on the [System Utilities form](<7mk0.md>) 
 is accessed via the Administrator - System Properties menu item on the
@@ -62,4 +62,4 @@ and [File - Open Database](<7mnk.md>) menu items on the
 common database, data transfers become unnecessary.
 
 | <font size="3" color="#FF0000"><b>WARNING: </b> Do not manipulate the system type on a central system <br>    in order to upload <br>    trainers/supervisors, trainees/employees, or criteria sets</font><font color="#FF0000"><font size="3">.&amp;nbsp; This may result in lost of data.</font></font> |
------
+---

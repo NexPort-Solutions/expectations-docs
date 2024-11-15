@@ -1,5 +1,5 @@
 # Global Settings Tab:     Reviewer Comments Sub-Tab 
------
+---
 
 To open the Reviewer Comments sub-tab of the 
 [Global Settings tab](<globset.md>), start by selecting the Global Settings menu item from the Administrator menu on the

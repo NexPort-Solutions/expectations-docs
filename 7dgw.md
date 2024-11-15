@@ -1,5 +1,5 @@
 # Administrator Form:  Trainer/Supervisor Tab 
------
+---
 
 Selecting either the Administrator - Create Trainer/Supervisor Signature Key 
 menu item or the Administrator - Add/Modify/Delete A Trainer/Supervisor menu item on the 
@@ -51,4 +51,4 @@ with Yes and No buttons and a prompt indicating the trainer/supervisor account
 which is to be deleted.&nbsp; The selected trainer/supervisor account, along with any [Training & Development](<traindev.md>) application records associated with that account, are deleted upon selection of the Yes button.
 
 > **NOTE** : Trainers/supervisors that have written evaluations cannot be deleted.&nbsp; <font color="#FF0000"><b>All Training &amp; Development records associated with a particular trainer/supervisor will be deleted upon deletion of that trainer/supervisor's account.</b></font>&nbsp; Additionally, a trainer/supervisor cannot delete their own account. 
------
+---

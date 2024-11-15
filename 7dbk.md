@@ -1,5 +1,5 @@
 # Evaluation Writer: Trainee/Employee Information Tab 
------
+---
 
 **Evaluation Writer Tabs**
 
@@ -57,4 +57,4 @@ at a later time to complete the evaluation.
 | <font size="3"><b>NOTE</b>:  Until an evaluation has been 
 saved as complete and approved by all reviewers, DRAFT will appear across 
 each page of the report when printing or previewing.</font> |
------
+---

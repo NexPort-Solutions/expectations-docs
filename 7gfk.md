@@ -1,5 +1,5 @@
 # Trainer/Supervisor Reports 
------
+---
 
 The **Trainer/Supervisor Reports** form is used to select the evaluations 
 that are to be displayed on the [Trainer/Supervisor Chart 

@@ -1,5 +1,5 @@
 # Training Requirements Manager
------
+---
 
 The Training Requirements Manager is accessed via the Training Requirements -&gt; Manage menu item on the main form, or via the Ctrl+M keyboard hotkey.
 
@@ -39,7 +39,7 @@ Check (or press Spacebar on the keyboard) the Archived checkbox to deactivate an
 The Progress tab may be used by all Trainers/Supervisors to enable training program entry items for review by the training individual to whom the training program entry was assigned.&nbsp; As a Trainer/Supervisor determines that one or more training program entry items have been completed by the training individual, the Trainer/Supervisor may check the checkboxes (via mouse-click or the Spacebar key) next to the completed items in the Progress tab.
 
 > **NOTE** : The training program entry items in the Progress tab may also be navigated via the keyboard, though checking/unchecking the checkboxes next to training program entry items using Spacebar will require a second press of the down arrow (when navigating top to bottom) or the up arrow (when navigating bottom to top) on the keyboard so that the checkbox is first put into focus. 
------
+---
 
 Checking training program entry items in the Progress tab will cause the corresponding items to become enabled in the Completed tab, where either a Trainer/Supervisor may check them or the training individual (to whom the training program entry was assigned) may check them as part of the review process.&nbsp; Trainees/Employees may check training program entry items in the Completed tab through use of the [Training Requirements Reviewer](<tdreview.md>). 
 
@@ -69,4 +69,4 @@ Archived training program entries may be reactivated by unchecking the Archived 
 - Archived entries which are certifications will not remove the corresponding training individual's entry in the [Certification Viewer](<tdcert.md>)
 
 > **NOTE** : The Samples Database feature was used as-is in most of the examples found in this help entry.&nbsp; For those Typical and Custom installations which do not currently have the Samples Database installed, a 'Change' installation may be initiated to add the feature onto a workstation where Expectations is already installed.&nbsp; After installation, more information may be found out about the Samples Database feature by reading the "Samples Readme.txt" file (accessible via shortcut from the Start menu). 
------
+---

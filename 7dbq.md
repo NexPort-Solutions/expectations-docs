@@ -1,5 +1,5 @@
 # Evaluation Writer: Reviewer Comments Tab 
------
+---
 
 **Evaluation Writer Tabs**
 
@@ -16,4 +16,4 @@ On this tab, comments entered by a reviewer are seen.&nbsp; Reviewer comments ap
 | <font size="3"><b>NOTE</b>:  Until all reviewers have 
 approved the evaluation, or unless turned off in the <a href="unapprove.htm">Unapproved Evaluations</a> configuration sub-tab of the Global Settings tab, DRAFT will appear across each page of the report 
 when printing or previewing.</font> |
------
+---

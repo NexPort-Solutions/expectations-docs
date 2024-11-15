@@ -1,5 +1,5 @@
 # Global Settings Tab: Report Header     Sub-Tab 
------
+---
 
 The Report Header sub-tab of the [Global Settings Tab](<globset.md>) 
 is accessed via the Administrator - Report Header menu item on the

@@ -1,12 +1,12 @@
 # Training Requirements Reviewer
------
+---
 
 The Training Requirements Reviewer is accessed via the Training Requirements -&gt; Review menu item on the main form, or via the Ctrl+R keyboard hotkey.
 
 The reviewer loads automatically upon login for a Trainee/Employee and allows them to review their current and archived training.&nbsp; The Completed tab allows a Trainee/Employee to review those training program items, which have been determined to be completed by the Trainer/Supervisor, by checking the corresponding checkboxes (via mouse-click or the Spacebar key) next to enabled tree items.&nbsp; As groups of items are fully reviewed by the Trainee/Employee, the review checkmarks propagate upwards automatically (as applicable) until the entire training program is checked indicating that it has been fully reviewed.&nbsp; Checking checkboxes at higher levels in the training program will cause checkmarks to also appear next to all child items.
 
 > **NOTE** : The training program items in the Completed tab may also be navigated via the keyboard, though checking/unchecking the checkboxes next to training program items using Spacebar will require a second press of the down arrow (when navigating top to bottom) or the up arrow (when navigating bottom to top) on the keyboard so that the checkbox is first put into focus. 
------
+---
 
 ## Clearing Reviewed Items
 
@@ -27,4 +27,4 @@ The Archive tab shows those training program entries of a Trainee/Employee which
 Archived entries may be renewed for use, however they may only be brought out of the archive and back into use by a Trainer/Supervisor.
 
 > **NOTE** : The Samples Database feature was used as-is in most of the examples found in this help entry.&nbsp; For those Typical and Custom installations which do not currently have the Samples Database installed, a 'Change' installation may be initiated to add the feature onto a workstation where Expectations is already installed.&nbsp; After installation, more information may be found out about the Samples Database feature by reading the "Samples Readme.txt" file (accessible via shortcut from the Start menu). 
------
+---

@@ -1,5 +1,5 @@
 # Startup
------
+---
 
 To start Expectations select the shortcut on the 
 desktop or in the Start menu.&nbsp; When the [main form](<7jjr.md>) 
@@ -12,4 +12,4 @@ connection, use the File - Open Database menu item on the [main form](<7jjr.md>)
 to the database the [Login form](<7d2o.md>) will appear.
 
 > **NOTE** : For instructions on <br>    manually making a database connection, see the section entitled<br>    [Database Connection](<7mnk.md>). 
------
+---

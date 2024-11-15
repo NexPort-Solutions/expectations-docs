@@ -16,7 +16,7 @@ The System Properties tab is divided into the following five sections:
 - Shift: utility for managing the shifts that are designated in a trainee's/employee's evaluation.
 - Phase: utility for managing the phases that are designated in a trainee's/employee's evaluation.
 
-<u><b>Managing Departments, Shifts, And Phases</b></u>
+## Managing Departments, Shifts, And Phases 
 
 A department, shift, or phase can be added by clicking the Add button under 
 the respective category.&nbsp; Double-click the &lt; New ... &gt; item to specify a text description, 
@@ -24,7 +24,7 @@ the respective category.&nbsp; Double-click the &lt; New ... &gt; item to specif
 modified upon double-clicking the item.&nbsp; Items can also be deleted by making a selection 
 in one of the lists and then clicking on the respective Delete button.&nbsp; The **'Department ALL'** selection is a reserved department used to provide assigned level 3 Trainer/Supervisors the additional abilities of writing evaluations and printing worksheets on all Trainee/Employees, irrespective of department.&nbsp; Since the 'Department ALL' selection is reserved, it may not be modified in, or deleted from, the Department list.&nbsp; The Delete button is not active until an item is selected in the corresponding category.
 
-<u><b>Compact And Repair Utility</b></u>
+## Compact And Repair Utility 
 
 The compact and repair button is enabled when connected to an Access 
 database.&nbsp; It is used to maximize the database performance, reducing its 
@@ -41,7 +41,7 @@ An error dialog window is displayed if any Expectations forms remain open or if
 other applications are connected to the shared database.&nbsp; A compact and 
 repair complete dialog window notifies the user when finished.
 
-<u><b>Setting The System Type</b></u>
+## Setting The System Type 
 
 The System Type setting is used to configure a workstation as being either a 
 central system or a stand-alone system, a central system being a repository for 

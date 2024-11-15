@@ -5,7 +5,7 @@ After installation, Expectations is configured to establish a connection to an
 Access database file in the application folder by default.&nbsp; Use the File - 
 Close Database and File - Open Database menu items on the [main form](<7jjr.md>) to locate and connect to an alternate database.
 
-<u><b>Close Database</b></u>
+## Close Database 
 
 In order to connect to an alternate database, the existing database connection 
 must be closed.&nbsp; Use the File - Close Database menu item to do this.&nbsp; 
@@ -14,7 +14,7 @@ This menu item is enabled prior to logging in.
 > 
 > 
 
-<u><b>Open Database</b></u>
+## Open Database 
 
 Use the File - Open Database menu item to locate and open a connection to an 
 alternate database.&nbsp; This menu item is enabled when not connected to a 
@@ -23,7 +23,7 @@ database.
 > 
 > 
 
-<u><b>Select Database</b></u>
+## Select Database 
 
 Selecting the File - Open Database menu item brings up the Select Database 
 window.&nbsp; Expectations can work from either an Access or SQL Server 
@@ -106,7 +106,7 @@ database.
 > 
 > 
 
-<u><b>Migration to SQL Server</b></u>
+## Migration to SQL Server 
 
 At launch or when switching the choice in the Select Database dialog, you can choose to automatically migrate older MS Access databases and update them using the [Conversion Options](<conv.md>) dialog.  If your database is already of the current version, or if you wish to manually perform the switch over to using a SQL Server database, please use the following procedure:
 

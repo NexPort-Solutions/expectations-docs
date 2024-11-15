@@ -14,14 +14,14 @@ need arise.&nbsp; They work when connected to an Access database or a local SQL
 Server database.&nbsp; Backing up or restoring a remote SQL Server database is 
 not allowed.&nbsp; 
 
-**<u>Auto Backup Settings</u>**
+## Auto Backup Settings
 
 Use these controls to configure Expectations to automatically back up the 
 database.&nbsp; By setting the Auto Backup option to On and setting Days to the 
 desired backup interval, a backup will automatically be performed when a user 
 logs in and the backup interval has been exceeded. 
 
-<u><b>Auto Delete Settings</b></u>
+## Auto Delete Settings 
 
 Use these controls to configure Expectations to automatically delete backups 
 from the set of existing backups.&nbsp; By setting the Auto Delete option to On 
@@ -29,7 +29,7 @@ and setting Days to the time period to keep a backup, a backup will
 automatically be deleted when a user logs in and the backup file is older than 
 the time period.
 
-<u><b>Manually Managing Backups</b></u>
+## Manually Managing Backups 
 
 A backup of the database can be manually created by selecting the Backup 
 button.&nbsp; The new backup file will appear in the Existing Backups list with 
@@ -39,7 +39,7 @@ then click on the Delete button.&nbsp; A confirmation dialog will be displayed,
 offering the opportunity to abort the delete.&nbsp; Upon confirming to delete 
 the backup it will be removed from the list of Existing Backups.
 
-<u><b>Restoring The Database</b></u>
+## Restoring The Database 
 
 The restore utility is used to restore the application database from an 
 existing backup.&nbsp; 

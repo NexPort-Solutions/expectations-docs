@@ -15,7 +15,7 @@ trainers/supervisors appears at the left of the tab.&nbsp; Use the buttons to
 the right of the list to create a signature key or to add, modify or delete a 
 trainer/supervisor account.&nbsp; Selecting the Close button exits the form. 
 
-## >Create Signature Key Button>
+## Create Signature Key Button
 
 The Create Signature Key button is not enabled until after a 
 trainer/supervisor is selected from the list.&nbsp; It is used to create a 
@@ -29,20 +29,20 @@ Signatures tab](<evlvwsig.md>).&nbsp; Note that a previously created key for an 
 will be invalidated and that only the last key created can be used to sign an 
 evaluation.
 
-## >Add Trainer/Supervisor Button>
+## Add Trainer/Supervisor Button
 
 The Add Trainer/Supervisor button is enabled at all times.&nbsp; It is used 
 to add a new trainer/supervisor account.&nbsp; Selecting the button opens the [Add Trainer/Supervisor 
 form](<7gj4.md>).
 
-## >Modify Trainer/Supervisor Button>
+## Modify Trainer/Supervisor Button
 
 The Modify Trainer/Supervisor button is not enabled until after a 
 trainer/supervisor is selected from the list.&nbsp; It is used to edit an 
 existing trainer/supervisor account.&nbsp; Selecting the button opens the
 [Modify Trainer/Supervisor form](<7je8.md>).
 
-## >Delete Trainer/Supervisor Button>
+## Delete Trainer/Supervisor Button
 
 The Delete Trainer/Supervisor button is not enabled until after a 
 trainer/supervisor is selected from the list.&nbsp; It is used to delete an 

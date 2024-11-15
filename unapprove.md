@@ -8,11 +8,11 @@ form](<7jjr.md>).
 
 The Unapproved Evaluations sub-tab consists of the "Prevent unapproved evaluations from appearing in the View Evaluation tab until fully-reviewed" and "Turn off 'DRAFT' watermark for unapproved evaluations" checkboxes:
 
-<u>Preventing View of Unapproved Evaluations</u>
+## Preventing View of Unapproved Evaluations
 
 Once checked, the "Prevent unapproved evaluations from appearing in the View Evaluation tab until fully-reviewed" option will force the absence of those evaluations, which have not been fully reviewed by all reviewers that were assigned to the trainer when they first saved the evaluation, from the "Completed Evaluations" list in the [View Evaluation](<7d85.md>) tab of the [Trainer/Supervisor Form](<7d68.md>).&nbsp; The default value of this checkbox is unchecked, which permits unapproved evaluations to appear in a trainee's Completed Evaluations list.
 
-<u>Turning Off Watermark on Unapproved Evaluations</u>
+## Turning Off Watermark on Unapproved Evaluations
 
 Once checked, the "Turn off 'DRAFT' watermark for unapproved evaluations" option will force the absence of the 'DRAFT' watermark on evaluation report previews and print-offs, even if the evaluation has not yet been approved by all assigned reviewers:
 

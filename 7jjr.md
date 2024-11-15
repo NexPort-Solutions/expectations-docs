@@ -10,25 +10,25 @@ text, disabled menu items by gray text.&nbsp; User information displays on the
 status bar at the bottom of the form.&nbsp; To exit Expectations select the control 
 box X or the File - Exit menu item.
 
-<u>File Menu Items</u>
+## File Menu Items
 
 - [Open Database](<7mnk.md>) (enabled when not connected to a database)
 - [Close Database](<7mnk.md>) (enabled when connected to a database and not logged in)
 - [Local Preferences](<locpref.md>) (enabled when logged in)
 - Exit (always enabled)
 
-<u>Login Menu Items</u>
+## Login Menu Items
 
 - [Login](<7d2o.md>) (enabled when not logged in and connected 
   to a database)
 - [Logout](<7d4g.md>) (enabled when any user logs in)
 
-<u>Trainee/Employee Menu Items</u>
+## Trainee/Employee Menu Items
 
 - [View Evaluation](<trneview.md>) (enabled when 
 trainee/employee logs in)
 
-<u>Trainer/Supervisor Menu Items</u>
+## Trainer/Supervisor Menu Items
 
 - [Write Evaluation](<7d80.md>) (enabled when 
 trainer/supervisor logs in)
@@ -42,7 +42,7 @@ trainer/supervisor logs in)
 - [View/Print Criteria Set](<7d4l.md>) (enabled when 
 trainer/supervisor logs in)
 
-<u>Administrator Menu Items</u>
+## Administrator Menu Items
 
 - [Create Trainer/Supervisor Signature Key](<7dgw.md>) (enabled when logged in as level 3 
   trainer/supervisor on central system)
@@ -67,12 +67,12 @@ trainer/supervisor)
 - [Download](<7mr4.md>) (enabled when trainer/supervisor logs in)
 - [Upload](<7po0.md>) (enabled when trainer/supervisor logs in)
 
-<u>Window Menu Items</u>
+## Window Menu Items
 
 - Cascade (always enabled)
 - menu item for each displayed form (always enabled)
 
-<u>Help Menu Items</u>
+## Help Menu Items
 
 - Contents (always enabled)
 - Index (always enabled)

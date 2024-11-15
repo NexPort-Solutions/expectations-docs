@@ -13,7 +13,7 @@ The Training Requirements Manager provides the means to:
 - Send a training individual's active training program entries to that individual's archive
 - Retrieve an archived training program entry and make it active for a training individual
 
-<u>Write</u>
+## Write
 
 The Write tab is where level 3 Trainers/Supervisors may perform the following training program entry actions:
 
@@ -34,16 +34,16 @@ The Entry Reinstated Date/Time dialog will appear where a new reinstated date ma
 
 Check (or press Spacebar on the keyboard) the Archived checkbox to deactivate and send an assigned training program entry to the training individual's archive.&nbsp; An archived training program entry will not appear in the Write, Progress, or Completed tabs (including the Completed tab of the [Training Requirements Reviewer](<tdreview.md>)), but will appear in the Archive tab of both the manager and reviewer forms.
 
-<u>Progress</u>
+## Progress
 
 The Progress tab may be used by all Trainers/Supervisors to enable training program entry items for review by the training individual to whom the training program entry was assigned.&nbsp; As a Trainer/Supervisor determines that one or more training program entry items have been completed by the training individual, the Trainer/Supervisor may check the checkboxes (via mouse-click or the Spacebar key) next to the completed items in the Progress tab.
 
-| <font size="3"><b>NOTE</b>: </font>The training program entry items in the Progress tab may also be navigated via the keyboard, though checking/unchecking the checkboxes next to training program entry items using Spacebar will require a second press of the down arrow (when navigating top to bottom) or the up arrow (when navigating bottom to top) on the keyboard so that the checkbox is first put into focus. |
+> **NOTE** : The training program entry items in the Progress tab may also be navigated via the keyboard, though checking/unchecking the checkboxes next to training program entry items using Spacebar will require a second press of the down arrow (when navigating top to bottom) or the up arrow (when navigating bottom to top) on the keyboard so that the checkbox is first put into focus. |
 -----
 
 Checking training program entry items in the Progress tab will cause the corresponding items to become enabled in the Completed tab, where either a Trainer/Supervisor may check them or the training individual (to whom the training program entry was assigned) may check them as part of the review process.&nbsp; Trainees/Employees may check training program entry items in the Completed tab through use of the [Training Requirements Reviewer](<tdreview.md>). 
 
-<u>Clearing Completed/Reviewed Items</u>
+## Clearing Completed/Reviewed Items
 
 Unchecking a checkbox next to a training program entry item in the Progress tab will open a dialog to begin the process of clearing the checkmark next to that particular training program entry item, as well as the corresponding checkmark (if present) of that training program entry item in the Completed tab.
 
@@ -51,7 +51,7 @@ The Clear Completed/Reviewed Statuses dialog appears to ensure that the Trainer/
 
 **IMPORTANT**: Confirmation of clearing the checkmark next to a training program entry item in the Progress tab also clears the checkmark next to any child items, as well as clearing all checkmarks of corresponding upward groups of training program entry items, for both the Progress and Completed tabs.&nbsp More information on the behavior of directly clearing the checkmark next to a training program entry item in the Completed tab may be found in the [Training Requirements Reviewer](<tdreview.md>) help topic.
 
-<u>Archive</u>
+## Archive
 
 The Archive tab is where a training program entry of a particular training individual may be sent when a level 3 Trainer/Supervisor checks the Archived checkbox in the Write tab in order to:
 
@@ -68,5 +68,5 @@ Archived training program entries may be reactivated by unchecking the Archived 
 - If a recurring training program entry is reactivated for use, the Trainer/Supervisor who is performing the reactivation may wish to clear any previous reviewed and/or completed statuses if present in the Completed and/or Progress tabs (respectively) in order for level 3 Trainers/Supervisors to properly make use of the entry color-coding available in the Write tab.
 - Archived entries which are certifications will not remove the corresponding training individual's entry in the [Certification Viewer](<tdcert.md>)
 
-| <font size="3"><b>NOTE</b>: </font>The Samples Database feature was used as-is in most of the examples found in this help entry.&nbsp; For those Typical and Custom installations which do not currently have the Samples Database installed, a 'Change' installation may be initiated to add the feature onto a workstation where Expectations is already installed.&nbsp; After installation, more information may be found out about the Samples Database feature by reading the "Samples Readme.txt" file (accessible via shortcut from the Start menu). |
+> **NOTE** : The Samples Database feature was used as-is in most of the examples found in this help entry.&nbsp; For those Typical and Custom installations which do not currently have the Samples Database installed, a 'Change' installation may be initiated to add the feature onto a workstation where Expectations is already installed.&nbsp; After installation, more information may be found out about the Samples Database feature by reading the "Samples Readme.txt" file (accessible via shortcut from the Start menu). |
 -----

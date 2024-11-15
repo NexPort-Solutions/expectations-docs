@@ -11,5 +11,5 @@ splash screen goes away.&nbsp; If Expectations is unable to establish a database
 connection, use the File - Open Database menu item on the [main form](<7jjr.md>) to manually establish a connection.&nbsp; Once the connection is made 
 to the database the [Login form](<7d2o.md>) will appear.
 
-> **NOTE** : For instructions on <br>    manually making a database connection, see the section entitled<br>    [Database Connection](<7mnk.md>). |
+> **NOTE** : For instructions on <br>    manually making a database connection, see the section entitled<br>    [Database Connection](<7mnk.md>). 
 -----

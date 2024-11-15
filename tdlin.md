@@ -7,5 +7,5 @@ The Login form will automatically appear when the Training & Development applica
 
 When Training & Development is unable to establish a database connection at startup, the login form will not appear.&nbsp; Please use the procedure at the bottom of the [Database Connection](<tddbconn.md>) help topic for more information on adjusting the database connection properties.&nbsp; Once the connection is made to the database, the Login form will appear.
 
-> **NOTE** : For instructions on setting the database connection for both applications, see the first procedure in the [Database Connection](<tddbconn.md>) help topic. |
+> **NOTE** : For instructions on setting the database connection for both applications, see the first procedure in the [Database Connection](<tddbconn.md>) help topic. 
 -----

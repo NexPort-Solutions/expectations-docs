@@ -49,25 +49,25 @@
 ## Other Reference Articles
 
 * [Forced Comments](7crq.md)
-* [Expectations: Evaluation Management Suite](README.md)
-* [Getting Started](7d0y.md)
-* [Trainer/Supervisor Tools and Utilities](7d10.md)
-* [System Administrator Tools and Utilities](7d12.md)
-* [Evaluation Techniques](7d14.md)
+*
+*
+*
+*
+*
 * [Logging In](7d2o.md)
-* [Logging Out](7d4g.md)
-* [View/Print Criteria Set Screen](7d4l.md)
-* [Trainer/Supervisor Screen](7d68.md)
-* [Trainer/Supervisor Screen: Write Evaluation Tab](7d80.md)
+*
+*
+*
+*
 * [Trainer/Supervisor Screen: View Evaluation Tab](7d85.md)
-* [Trainer/Supervisor Screen: Reports Tab](7d9s.md)
+*
 * [Evaluation Writer: Trainee/Employee Information Tab](7dbk.md)
 * [Evaluation Writer: Trainee/Employee Evaluation Tab](7dbp.md)
 * [Evaluation Writer: Reviewer Comments Tab](7dbq.md)
 * [Evaluation Viewer: Trainee/Employee Information Tab](7ddc.md)
 * [Evaluation Viewer: Trainee/Employee Evaluation Tab](7ddh.md)
 * [Evaluation Viewer: Reviewer Comments Tab](7ddr.md)
-* [Administrator Screen](7df4.md)
+*
 * [Administrator Screen: Trainers/Supervisors Tab](7dgw.md)
 * [Administrator Screen: Trainees/Employees Tab](7g6o.md)
 * [Administrator Screen: Criteria Tab](7g8g.md)
@@ -85,10 +85,10 @@
 * [Modify Criteria](7jhs.md)
 * [Modify Criteria Set](7jjk.md)
 * [Startup](7jjp.md)
-* [Main Form](7jjr.md)
+*
 * [Trainer/Supervisor Chart Screen](7jsg.md)
 * [Trainee/Employee Chart Screen](7mi8.md)
-* [System Utilities](7mk0.md)
+*
 * [System Properties](7mls.md)
 * [Database Connection](7mnk.md)
 * [Backup Restore](7mpc.md)
@@ -101,10 +101,10 @@
 * [Download Screen: Criteria Sets Tab](7myd.md)
 * [Download Screen: System Tables Tab](7mye.md)
 * [Upload](7po0.md)
-* [Evaluation Techniques](7pps.md)
-* [Standardized Guidelines for Evaluation](7prk.md)
-* [Writing your own Evaluation Criteria](7ptc.md)
-* [Evaluation Frequency](7pv4.md)
+*
+*
+*
+*
 * [Convert older database from MS Access to SQL Server](conv.md)
 * [Expectations Email Service: User Setup](emailbuslog.md)
 * [Expectations Email Service: How it Works](emailguide.md)
@@ -116,10 +116,10 @@
 * [Launch Maximized](launchmax.md)
 * [Local Preferences](locpref.md)
 * [Ordering](ordering.md)
-* [Trainer/Supervisor Screen: Print Worksheet Tab](printwor.md)
+*
 * [Ratings](ratings.md)
 * [Reviewer Comments](revcom.md)
-* [Trainer/Supervisor Screen: Review Evaluation Tab](Review1.md)
+*
 * [Signatures](sig.md)
 * [Certifications](tdcert.md)
 * [Certification Viewer](tdcert1.md)
@@ -137,8 +137,8 @@
 * [Trainee/Employee Tools and Utilities](tdtrnetool.md)
 * [Trainer/Supervisor Tools and Utilities](tdtrnstool.md)
 * [Expectations: Evaluation Management Suite](traindev.md)
-* [Trainee/Employee Screen](trneform.md)
-* [Trainee/Employee Tools and Utilities](trnetool.md)
-* [Trainee/Employee Screen: View Evaluation Tab](trneview.md)
+*
+*
+*
 * [Training Time Report](trntimrp.md)
 * [Unapproved Evaluations](unapprove.md)

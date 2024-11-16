@@ -4,7 +4,6 @@ cover: >-
   masthead image for evaluation software documentation. The design features
   minimalistic elements like abstract forms and icon.webp
 coverY: -40
-layout: landing
 ---
 
 # Expectations End User Help

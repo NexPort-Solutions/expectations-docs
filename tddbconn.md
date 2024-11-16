@@ -16,7 +16,7 @@ Upon selecting 'Yes', you may also choose to automatically migrate an older MS A
 
 1. Exit Training & Development, including any UPDATE DATABASE or Conversion Options dialogs that may be open
 2. Launch the main Expectations application
-3. See the procedure in the Migrate to SQL Server section of the Expectations [Database Connection](readme/7d0y/7mnk/) help topic.
+3. See the procedure in the Migrate to SQL Server section of the Expectations [Database Connection](7mnk.md) help topic.
 
 {% hint style="info" %}
 **NOTE** : At this time during the update process, Training & Development application records may only be migrated automatically (rather than manually) from an MS Access database to SQL Server.  For those older MS Access databases which do not meet the criteria specified in the [Conversion Options](tdconv.md) help topic for updating 'in-place', please consider converting your database to SQL Server automatically.  If migrating your older MS Access database to SQL Server is not feasible at this time and the "Keep MS Access" button is not enabled, please contact Smart Horizons for assistance in separating out the database into multiple MS Access databases (each of which may be updated separately by the software, as normal).

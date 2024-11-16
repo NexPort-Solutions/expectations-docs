@@ -2,7 +2,7 @@
 
 ***
 
-After installation, Expectations is configured to establish a connection to an Access database file in the application folder by default. Use the File - Close Database and File - Open Database menu items on the [main form](../../../7jjr.md) to locate and connect to an alternate database.
+After installation, Expectations is configured to establish a connection to an Access database file in the application folder by default. Use the File - Close Database and File - Open Database menu items on the [main form](7jjr.md) to locate and connect to an alternate database.
 
 ## Close Database
 
@@ -61,27 +61,27 @@ Finally, select the desired database from the list and then click on the OK butt
 ## Migration to SQL Server
 
 {% hint style="info" %}
-If you experience problems connecting to the SQL Server database please refer to [troubleshooting-database-connectivity-issues-in-expectations.md](troubleshooting-database-connectivity-issues-in-expectations.md "mention")
+If you experience problems connecting to the SQL Server database please refer to [troubleshooting-database-connectivity-issues-in-expectations.md](readme/7d0y/7mnk/troubleshooting-database-connectivity-issues-in-expectations.md "mention")
 {% endhint %}
 
 
 
-At launch or when switching the choice in the Select Database dialog, you can choose to automatically migrate older MS Access databases and update them using the [Conversion Options](../../../conv.md) dialog. If your database is already of the current version, or if you wish to manually perform the switch over to using a SQL Server database, please use the following procedure:
+At launch or when switching the choice in the Select Database dialog, you can choose to automatically migrate older MS Access databases and update them using the [Conversion Options](conv.md) dialog. If your database is already of the current version, or if you wish to manually perform the switch over to using a SQL Server database, please use the following procedure:
 
 1. A server must be available on the network. If not, download and install either [SQL Server 2005 Express](http://www.microsoft.com/sqlserver/2005/en/us/express.aspx) or [SQL Server 2008 Express](http://www.microsoft.com/sqlserver/2008/en/us/express.aspx). These are limited versions of SQL Server. Installation and configuration instructions are available on the download site.
-2. Connect to the [central](../../../7mls.md) Access database file as described above.
-3. [Download](../../../7mr4.md) the [departments, shifts, and phases](../../../7mye.md) that are to be relocated to the new database.
-4. [Download](../../../7mr4.md) the [trainers/supervisors](../../../7msw.md), [trainees/employees](../../../7muo.md), [criteria sets](../../../7myd.md), and [evaluations](../../../7my8.md) that are to be relocated to the new database.
+2. Connect to the [central](7mls.md) Access database file as described above.
+3. [Download](7mr4.md) the [departments, shifts, and phases](7mye.md) that are to be relocated to the new database.
+4. [Download](7mr4.md) the [trainers/supervisors](7msw.md), [trainees/employees](7muo.md), [criteria sets](7myd.md), and [evaluations](7my8.md) that are to be relocated to the new database.
 5. Create and connect to the SQL Server database as described above.
-6. With Expectations connected to the SQL Server database, [login](../../../7d2o.md) by entering **Admin** and **password** respectively for Login Name and Password.
-7. [Upload](../../../7po0.md) the previously downloaded departments, shifts, and phases.
-8. Assign a department to the Admin user in the [Modify Trainer/Supervisor](../../../7je8.md) window.
-9. [Upload](../../../7po0.md) the previously downloaded trainers/supervisors, trainees/employees, criteria sets, and evaluations.
+6. With Expectations connected to the SQL Server database, [login](7d2o.md) by entering **Admin** and **password** respectively for Login Name and Password.
+7. [Upload](7po0.md) the previously downloaded departments, shifts, and phases.
+8. Assign a department to the Admin user in the [Modify Trainer/Supervisor](7je8.md) window.
+9. [Upload](7po0.md) the previously downloaded trainers/supervisors, trainees/employees, criteria sets, and evaluations.
 
 Note: Relocating evaluations to a SQL Server database is optional. While they are not required for authoring new evaluations, they may be wanted for historical reference.
 
 {% hint style="info" %}
-**NOTE** : At this time during the update process, Training & Development application records may only be migrated automatically (rather than manually) from an MS Access database to SQL Server. For those older MS Access databases which do not meet the criteria specified in the [Conversion Options](../../../conv.md) help topic for updating 'in-place', please consider converting your database to SQL Server automatically. If migrating your older MS Access database to SQL Server is not feasible at this time and the "Keep MS Access" button is not enabled, please contact Smart Horizons for assistance in separating out the database into multiple MS Access databases (each of which may be updated separately by the software, as normal).
+**NOTE** : At this time during the update process, Training & Development application records may only be migrated automatically (rather than manually) from an MS Access database to SQL Server. For those older MS Access databases which do not meet the criteria specified in the [Conversion Options](conv.md) help topic for updating 'in-place', please consider converting your database to SQL Server automatically. If migrating your older MS Access database to SQL Server is not feasible at this time and the "Keep MS Access" button is not enabled, please contact Smart Horizons for assistance in separating out the database into multiple MS Access databases (each of which may be updated separately by the software, as normal).
 {% endhint %}
 
 ***

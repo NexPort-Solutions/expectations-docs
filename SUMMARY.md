@@ -6,7 +6,7 @@
     * [Main Form](7jjr.md)
     * [Logging In](7d2o.md)
     * [Logging Out](7d4g.md)
-    * [Database Connection](readme/7d0y/7mnk/README.md)
+    * [Database Connection](7mnk.md)
       * [Troubleshooting Database Connectivity Issues in Expectations](readme/7d0y/7mnk/troubleshooting-database-connectivity-issues-in-expectations.md)
   * [Trainee/Employee Tools and Utilities](trnetool.md)
     * [Trainee/Employee Screen](trneform.md)
@@ -91,7 +91,7 @@
 * [Trainee/Employee Chart Screen](7mi8.md)
 *
 * [System Properties](7mls.md)
-* [Database Connection](readme/7d0y/7mnk/README.md)
+* [Database Connection](7mnk.md)
 * [Backup Restore](7mpc.md)
 * [Download](7mr4.md)
 * [Report Header](7mrh.md)

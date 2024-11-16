@@ -10,8 +10,13 @@ The Evaluation Reviewer window includes the following three tabs: the [Trainee/E
 
 Evaluation comments will also show up in the [Evaluation Writer](7dbq.md) when it is sent back for correcting, the Evaluation Viewer once approved by all reviewers, and in the evaluation report preview and print-off when configured to do so from the [Reviewer Comments](revcom.md) sub-tab.
 
-## | NOTE: Until all reviewers have approved the evaluation, or unless turned off in the [Unapproved Evaluations](unapprove.htm) configuration sub-tab of the Global Settings tab, DRAFT will appear across each page of the report when printing or previewing. |
+{% hint style="info" %}
+**NOTE**: Until all reviewers have approved the evaluation, or unless turned off in the Unapproved Evaluations configuration sub-tab of the Global Settings tab, DRAFT will appear across each page of the report when printing or previewing.
+{% endhint %}
 
 The Signatures tab will appear in the Evaluation Reviewer to allow an evaluation to be signed by the reviewer when the "Allow completed evaluations to be signed before they are fully-reviewed" checkbox is checked (in the [Signatures](sig.md) sub-tab of the [System Utilities](7mk0.md) form's [Global Settings](globset.md) tab).
 
-## | NOTE: If the "Allow completed evaluations to be signed before they are fully-reviewed" checkbox is checked , a confirmation prompt will appear for reviewers when they disapprove evaluations.\&nbsp; Choosing 'Yes' at the following prompt will cause all existing signatures to be cleared and the Signatures tab to disappear, since the evaluation is no longer in the 'Complete' state: |
+{% hint style="info" %}
+**NOTE**: If the "Allow completed evaluations to be signed before they are fully-reviewed" checkbox is checked , a confirmation prompt will appear for reviewers when they disapprove evaluations.  Choosing 'Yes' at the following prompt will cause all existing signatures to be cleared and the Signatures tab to disappear, since the evaluation is no longer in the 'Complete' state:
+{% endhint %}
+

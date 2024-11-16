@@ -8,7 +8,7 @@ The Unapproved Evaluations sub-tab consists of the "Prevent unapproved evaluatio
 
 ## Preventing View of Unapproved Evaluations
 
-Once checked, the "Prevent unapproved evaluations from appearing in the View Evaluation tab until fully-reviewed" option will force the absence of those evaluations, which have not been fully reviewed by all reviewers that were assigned to the trainer when they first saved the evaluation, from the "Completed Evaluations" list in the [View Evaluation](7d85.md) tab of the [Trainer/Supervisor Form](7d68.md).  The default value of this checkbox is unchecked, which permits unapproved evaluations to appear in a trainee's Completed Evaluations list.
+Once checked, the "Prevent unapproved evaluations from appearing in the View Evaluation tab until fully-reviewed" option will force the absence of those evaluations, which have not been fully reviewed by all reviewers that were assigned to the trainer when they first saved the evaluation, from the "Completed Evaluations" list in the [View Evaluation](broken-reference) tab of the [Trainer/Supervisor Form](7d68.md).  The default value of this checkbox is unchecked, which permits unapproved evaluations to appear in a trainee's Completed Evaluations list.
 
 ## Turning Off Watermark on Unapproved Evaluations
 

@@ -22,9 +22,9 @@ The compact and repair button is enabled when connected to an Access database.  
 
 ## Setting The System Type
 
-The System Type setting is used to configure a workstation as being either a central system or a stand-alone system, a central system being a repository for evaluations and a stand alone system being an evaluation writing station.  It is a means of maintaining a centralized database when network access is not available.  Typically there will be one central system.  Trainers/supervisors, trainees/employees, and criteria sets, are entered at the central system and then selectively transferred to each of the stand-alone systems.  Evaluations authored at the stand-alone systems are then transferred back to the central system.  The data transfers are accomplished using the [download](7mr4.md) and [upload](7po0.md) utilities.
+The System Type setting is used to configure a workstation as being either a central system or a stand-alone system, a central system being a repository for evaluations and a stand alone system being an evaluation writing station.  It is a means of maintaining a centralized database when network access is not available.  Typically there will be one central system.  Trainers/supervisors, trainees/employees, and criteria sets, are entered at the central system and then selectively transferred to each of the stand-alone systems.  Evaluations authored at the stand-alone systems are then transferred back to the central system.  The data transfers are accomplished using the [download](broken-reference) and [upload](broken-reference) utilities.
 
-Where network access is available, workstations can be configured to work from a common database.  Use the [File - Close Database](7mnk.md) and [File - Open Database](7mnk.md) menu items on the [main form](7jjr.md) to locate a shared database on the network.  When working from a common database, data transfers become unnecessary.
+Where network access is available, workstations can be configured to work from a common database.  Use the [File - Close Database](broken-reference) and [File - Open Database](broken-reference) menu items on the [main form](7jjr.md) to locate a shared database on the network.  When working from a common database, data transfers become unnecessary.
 
 \| WARNING: Do not manipulate the system type on a central system\
 in order to upload\

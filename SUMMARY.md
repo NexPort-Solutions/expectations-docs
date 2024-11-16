@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Expectations: Evaluation Software](README.md)
+* [Expectations End User Help](README.md)
   * [Getting Started](7d0y.md)
     * [Startup](7jjp.md)
     * [Main Form](7jjr.md)

@@ -6,14 +6,14 @@ The main form is Expectation's parent form.  All the other forms are limited to 
 
 ## File Menu Items
 
-* [Open Database](7mnk.md) (enabled when not connected to a database)
-* [Close Database](7mnk.md) (enabled when connected to a database and not logged in)
+* [Open Database](broken-reference) (enabled when not connected to a database)
+* [Close Database](broken-reference) (enabled when connected to a database and not logged in)
 * [Local Preferences](locpref.md) (enabled when logged in)
 * Exit (always enabled)
 
 ## Login Menu Items
 
-* [Login](7d2o.md) (enabled when not logged in and connected to a database)
+* [Login](broken-reference) (enabled when not logged in and connected to a database)
 * [Logout](7d4g.md) (enabled when any user logs in)
 
 ## Trainee/Employee Menu Items
@@ -25,7 +25,7 @@ The main form is Expectation's parent form.  All the other forms are limited to 
 * [Write Evaluation](7d80.md) (enabled when trainer/supervisor logs in)
 * [Print Worksheet](printwor.md) (enabled when trainer/supervisor logs in)
 * [Review Evaluation](Review1.md) (enabled when trainer/supervisor logs in)
-* [View Evaluation](7d85.md) (enabled when trainer/supervisor logs in)
+* [View Evaluation](broken-reference) (enabled when trainer/supervisor logs in)
 * [Reports](7d9s.md) (enabled when trainer/supervisor logs in)
 * [View/Print Criteria Set](7d4l.md) (enabled when trainer/supervisor logs in)
 
@@ -40,8 +40,8 @@ The main form is Expectation's parent form.  All the other forms are limited to 
 * [System Properties](7mls.md) (enabled when logged in as level 3 trainer/supervisor)
 * [Backup/Restore](7mpc.md) (enabled when logged in as level 3 trainer/supervisor)
 * [Global Settings](globset.md) (enabled when logged in as level 3 trainer/supervisor)
-* [Download](7mr4.md) (enabled when trainer/supervisor logs in)
-* [Upload](7po0.md) (enabled when trainer/supervisor logs in)
+* [Download](broken-reference) (enabled when trainer/supervisor logs in)
+* [Upload](broken-reference) (enabled when trainer/supervisor logs in)
 
 ## Window Menu Items
 

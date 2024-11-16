@@ -2,7 +2,7 @@
 
 ***
 
-Use the download system tables tab on the [download form](7mr4.md) to transfer departments, shifts, and phases entered at the central workstation to a stand-alone workstation.  Begin by selecting the either the Departments, Shift, or Phase table from the drop down list.  Next select the records to download from the list box.  Multiple selections can be made.  Records to be downloaded are shown highlighted.  Click on a selected record to deselect.
+Use the download system tables tab on the [download form](broken-reference) to transfer departments, shifts, and phases entered at the central workstation to a stand-alone workstation.  Begin by selecting the either the Departments, Shift, or Phase table from the drop down list.  Next select the records to download from the list box.  Multiple selections can be made.  Records to be downloaded are shown highlighted.  Click on a selected record to deselect.
 
 Clicking the Download button brings up a Save As window.  Use the Save As window to browse to the location where the system table records are to be saved then enter the file name to save them in.  Selecting the Save button will start the download.  The Cancel button aborts the download.
 

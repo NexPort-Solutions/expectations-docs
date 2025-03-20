@@ -50,25 +50,14 @@
 ## Other Reference Articles
 
 * [Forced Comments](7crq.md)
-*
-*
-*
-*
-*
 * [Logging In](7d2o.md)
-*
-*
-*
-*
 * [Trainer/Supervisor Screen: View Evaluation Tab](7d85.md)
-*
 * [Evaluation Writer: Trainee/Employee Information Tab](7dbk.md)
 * [Evaluation Writer: Trainee/Employee Evaluation Tab](7dbp.md)
 * [Evaluation Writer: Reviewer Comments Tab](7dbq.md)
 * [Evaluation Viewer: Trainee/Employee Information Tab](7ddc.md)
 * [Evaluation Viewer: Trainee/Employee Evaluation Tab](7ddh.md)
 * [Evaluation Viewer: Reviewer Comments Tab](7ddr.md)
-*
 * [Administrator Screen: Trainers/Supervisors Tab](7dgw.md)
 * [Administrator Screen: Trainees/Employees Tab](7g6o.md)
 * [Administrator Screen: Criteria Tab](7g8g.md)
@@ -86,10 +75,8 @@
 * [Modify Criteria](7jhs.md)
 * [Modify Criteria Set](7jjk.md)
 * [Startup](7jjp.md)
-*
 * [Trainer/Supervisor Chart Screen](7jsg.md)
 * [Trainee/Employee Chart Screen](7mi8.md)
-*
 * [System Properties](7mls.md)
 * [Database Connection](7mnk.md)
 * [Backup Restore](7mpc.md)

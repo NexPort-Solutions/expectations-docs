@@ -89,10 +89,6 @@
 * [Download Screen: Criteria Sets Tab](7myd.md)
 * [Download Screen: System Tables Tab](7mye.md)
 * [Upload](7po0.md)
-*
-*
-*
-*
 * [Convert older database from MS Access to SQL Server](conv.md)
 * [Expectations Email Service: User Setup](emailbuslog.md)
 * [Expectations Email Service: How it Works](emailguide.md)
@@ -104,10 +100,8 @@
 * [Launch Maximized](launchmax.md)
 * [Local Preferences](locpref.md)
 * [Ordering](ordering.md)
-*
 * [Ratings](ratings.md)
 * [Reviewer Comments](revcom.md)
-*
 * [Signatures](sig.md)
 * [Certifications](tdcert.md)
 * [Certification Viewer](tdcert1.md)
@@ -125,9 +119,6 @@
 * [Trainee/Employee Tools and Utilities](tdtrnetool.md)
 * [Trainer/Supervisor Tools and Utilities](tdtrnstool.md)
 * [Expectations: Evaluation Management Suite](traindev.md)
-*
-*
-*
 * [Training Time Report](trntimrp.md)
 * [Unapproved Evaluations](unapprove.md)
 

@@ -127,3 +127,4 @@
 * [Installation](troubleshooting/installation/README.md)
   * [Identifying Disabled Services in Safe Mode on Windows 11](troubleshooting/installation/identifying-disabled-services-in-safe-mode-on-windows-11.md)
   * [Disabling Antivirus and Malware Protection for Software Installation](troubleshooting/installation/disabling-antivirus-and-malware-protection-for-software-installation.md)
+  * [Temporarily Disabling Trend Micro Services for Expectations Installation](troubleshooting/installation/temporarily-disabling-trend-micro-services-for-expectations-installation.md)
